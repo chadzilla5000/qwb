@@ -1,0 +1,6263 @@
+<?xml version="1.0" ?>
+<QBXML>
+<QBXMLMsgsRs>
+<CustomerQueryRs requestID="609" statusCode="0" statusSeverity="Info" statusMessage="Status OK">
+<CustomerRet>
+<ListID>80000562-1583286247</ListID>
+<Name>,</Name>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000593-1589047189</ListID>
+<Name>1980</Name>
+<FirstName>Deborah</FirstName>
+<LastName>Palacheck</LastName>
+<Phone>180-856-1875</Phone>
+<Email>deb525nov1@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004B6-1572707544</ListID>
+<Name>1989</Name>
+<FirstName>Dylan</FirstName>
+<LastName>Pepper</LastName>
+<Phone>570-529-1224</Phone>
+<Email>pepper91830@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000457-1563375012</ListID>
+<Name>57 Square Properties</Name>
+<FirstName>Muna</FirstName>
+<LastName>Abu-Shaar</LastName>
+<Phone>518-527-9820</Phone>
+<Email>muna@57squareproperties.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000479-1566246071</ListID>
+<Name>A Scozzi A/C &amp; Heating, Inc</Name>
+<FirstName>Anthony</FirstName>
+<LastName>Scozzafava</LastName>
+<Phone>845-629-1317</Phone>
+<Email>antscozz@hvc.rr.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003A0-1549983694</ListID>
+<Name>A. B.  Harris, Inc.</Name>
+<FirstName>Terri</FirstName>
+<LastName>Harris</LastName>
+<Phone>757-810-9649</Phone>
+<Email>ABHarrisinc@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000088-1477687984</ListID>
+<Name>Aaron Beresh</Name>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000021D-1522698184</ListID>
+<Name>Aaron Briggs</Name>
+<FirstName>Aaron</FirstName>
+<LastName>Briggs</LastName>
+<Phone>570-704-6317</Phone>
+<Email>steve@waverlycabinets.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004FB-1577993694</ListID>
+<Name>Acevedo, Daniel</Name>
+<FirstName>Daniel</FirstName>
+<LastName>Acevedo</LastName>
+<Phone>937-686-0414</Phone>
+<Email>dango4@verizon.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002A5-1533045536</ListID>
+<Name>Adam Hodge</Name>
+<Phone>931-409-2158</Phone>
+<Email>broncohunting824@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001E6-1520188256</ListID>
+<Name>Admir Domazet</Name>
+<FirstName>Admir</FirstName>
+<LastName>Domazet</LastName>
+<Phone>3159410427</Phone>
+<Email>a_domazet@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000026C-1528296927</ListID>
+<Name>Adolfo Pena</Name>
+<FirstName>Adolfo</FirstName>
+<LastName>Pena</LastName>
+<Phone>8598663124</Phone>
+<Email>adolfoinquiry@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002E7-1537792085</ListID>
+<Name>Adrian Pinales</Name>
+<FirstName>Adrian</FirstName>
+<LastName>Pinales</LastName>
+<Phone>8453992221</Phone>
+<Email>adrianpinales@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001C0-1518205148</ListID>
+<Name>Agnes Rossick</Name>
+<FirstName>Agnes</FirstName>
+<LastName>Rossick</LastName>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000340-1542664294</ListID>
+<Name>Aharoni, Eran</Name>
+<FirstName>Eran</FirstName>
+<LastName>Aharoni</LastName>
+<Phone>917-667-7766</Phone>
+<Email>snakeeyes1169@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001E1-1519679133</ListID>
+<Name>Aisha Dockery</Name>
+<FirstName>Aisha</FirstName>
+<LastName>Dockery</LastName>
+<Phone>5189610685</Phone>
+<Email>aisha.75@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004A2-1570799006</ListID>
+<Name>Albers, Sarah</Name>
+<FirstName>Sarah</FirstName>
+<LastName>Albers</LastName>
+<Phone>513-312-5615</Phone>
+<Email>s.albers404@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000230-1523880924</ListID>
+<Name>Alberto Colon</Name>
+<FirstName>Alberto</FirstName>
+<LastName>Colon</LastName>
+<Phone>9174994560</Phone>
+<Email>bronxdevine@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000013C-1511961810</ListID>
+<Name>Aleksandr Matskevich</Name>
+<FirstName>Aleksandr</FirstName>
+<LastName>Matskevich</LastName>
+<Phone>7168631592</Phone>
+<Email>matsa17@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002A6-1533132639</ListID>
+<Name>Aletha Gargiulo</Name>
+<FirstName>Aletha</FirstName>
+<LastName>Gargiulo</LastName>
+<Phone>719-216-4075</Phone>
+<Email>alethag@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000375-1546952851</ListID>
+<Name>alex casimiro</Name>
+<FirstName>alex</FirstName>
+<LastName>casimiro</LastName>
+<Phone>4136262275</Phone>
+<Email>acasimiro21@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000023D-1524578870</ListID>
+<Name>Alex Cher</Name>
+<FirstName>Alex</FirstName>
+<LastName>Cher</LastName>
+<Phone>570-704-6317</Phone>
+<Email>steve@waverlycabinets.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002FF-1538568709</ListID>
+<Name>Alexander Currie</Name>
+<FirstName>Alexander</FirstName>
+<LastName>Currie</LastName>
+<Phone>508-596-3754</Phone>
+<Email>alexander.b.currie@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000028F-1531414567</ListID>
+<Name>Ali Abdullah</Name>
+<FirstName>Ali</FirstName>
+<LastName>Abdullah</LastName>
+<Phone>714-756-1097</Phone>
+<Email>aliabdullah20@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002D6-1537030211</ListID>
+<Name>Alibel Pena</Name>
+<FirstName>Alibel</FirstName>
+<LastName>Pena</LastName>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002C1-1535379510</ListID>
+<Name>Alison Gadon</Name>
+<FirstName>Alison</FirstName>
+<LastName>Gadon</LastName>
+<Phone>201-838-6015</Phone>
+<Email>ajgadon@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000049A-1570046159</ListID>
+<Name>All Granite</Name>
+<FirstName>Peggy</FirstName>
+<Phone>707 489 1023</Phone>
+<Email>peggy@allgraniteinc.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800005BC-1590433006</ListID>
+<Name>All Wall Builders</Name>
+<FirstName>Carl</FirstName>
+<LastName>Westcott</LastName>
+<Phone>6073169454</Phone>
+<Email>carl@allwallbuilders.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000041E-1558632463</ListID>
+<Name>Allabaugh, Tiffany</Name>
+<FirstName>Tiffany</FirstName>
+<LastName>Allabaugh</LastName>
+<Phone>570-472-5875</Phone>
+<Email>pallabaugh@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000237-1524102357</ListID>
+<Name>Allan Morrow</Name>
+<Email>a.moorow2013@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002A0-1532631657</ListID>
+<Name>Allison Witt</Name>
+<FirstName>Allison</FirstName>
+<LastName>Witt</LastName>
+<Phone>432-528-3572</Phone>
+<Email>Allison@fortbendbuilders.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000022C-1523561245</ListID>
+<Name>Alvin Mullis</Name>
+<FirstName>Alvin</FirstName>
+<LastName>Mullis</LastName>
+<Phone>561-523-4431</Phone>
+<Email>jetman12@comcast.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000251-1525886888</ListID>
+<Name>Amanda Honeycutt</Name>
+<FirstName>Amanda</FirstName>
+<LastName>Honeycutt</LastName>
+<Phone>4252681302</Phone>
+<Email>amanda.honeycutt82@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001E3-1519680145</ListID>
+<Name>Amanda Kinnear</Name>
+<FirstName>Amanda</FirstName>
+<LastName>Kinnear</LastName>
+<Phone>6318066608</Phone>
+<Email>amandakinnear526@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000123-1510264451</ListID>
+<Name>AMC Builders, LLC</Name>
+<FirstName>Shawn</FirstName>
+<LastName>McCreary</LastName>
+<Phone>(570) 759-1350</Phone>
+<Email>shawnm.amc@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000535-1580847950</ListID>
+<Name>American Custom Cabinets</Name>
+<FirstName>josh</FirstName>
+<LastName>moore</LastName>
+<Phone>678-603-0462</Phone>
+<Email>Joshmoore1990@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004B5-1572700868</ListID>
+<Name>American Dream</Name>
+<FirstName>Fran</FirstName>
+<LastName>Howell</LastName>
+<Phone>727-549-9000</Phone>
+<Email>robfranhow@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000030F-1539712174</ListID>
+<Name>Americo Amorion</Name>
+<FirstName>Americo</FirstName>
+<LastName>Amorim</LastName>
+<Phone>954-937-8439</Phone>
+<Email>alphaview@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000106-1507321192</ListID>
+<Name>Andrew Land</Name>
+<FirstName>Andrew</FirstName>
+<LastName>Land</LastName>
+<Phone>803-276-7000</Phone>
+<Email>landshands@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002B1-1533735550</ListID>
+<Name>Angelika Kelley</Name>
+<FirstName>Angelika</FirstName>
+<LastName>Kelley</LastName>
+<Phone>570-540-6908</Phone>
+<Email>kelleybombs@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002DB-1537278818</ListID>
+<Name>Annamarie Moylan</Name>
+<FirstName>Annamarie</FirstName>
+<LastName>Moylan</LastName>
+<Phone>516-317-9034</Phone>
+<Email>avolpe2026@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002C3-1535544861</ListID>
+<Name>Anthony Jenkins</Name>
+<FirstName>Anthony</FirstName>
+<LastName>Jenkins</LastName>
+<Phone>609-707-2799</Phone>
+<Email>programat@netscape.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000041D-1558470655</ListID>
+<Name>Antonia Saric</Name>
+<FirstName>Antonia</FirstName>
+<LastName>Saric</LastName>
+<Phone>732-485-6488</Phone>
+<Email>antoniaja1219@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000044C-1562595181</ListID>
+<Name>Apholz, Michelle</Name>
+<FirstName>MIchelle</FirstName>
+<LastName>Apholz</LastName>
+<Phone>570-263-0748</Phone>
+<Email>integraclean@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000379-1547559289</ListID>
+<Name>Arnold, Troy</Name>
+<FirstName>Troy</FirstName>
+<LastName>Arnold</LastName>
+<Phone>2023699807</Phone>
+<Email>troyarnoldd@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000014A-1512504134</ListID>
+<Name>Arthur and Rita Tommaselli</Name>
+<FirstName>Arthur and Rita</FirstName>
+<LastName>Tommaselli</LastName>
+<Phone>570-954-4335</Phone>
+<Email>ritat102@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000218-1522100822</ListID>
+<Name>Arturo Vazquez</Name>
+<Phone>570-994-0138</Phone>
+<Email>vazquezconstructionpa@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001CF-1519048312</ListID>
+<Name>Ashley Duncanson</Name>
+<FirstName>Ashley</FirstName>
+<LastName>Duncanson</LastName>
+<Phone>5855900643</Phone>
+<Email>ashley.duncanson@daemen.edu</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000326-1541510524</ListID>
+<Name>Ashley Owens</Name>
+<FirstName>Ashley</FirstName>
+<LastName>Owens</LastName>
+<Phone>5083401210</Phone>
+<Email>ashley@rearchitect-ma.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000004C-1458572626</ListID>
+<Name>Ashton, Cindy</Name>
+<Phone>973-885-7874</Phone>
+<Email>cindy.ashton@mdlz.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000049D-1570450975</ListID>
+<Name>Aurgemma, Anthony</Name>
+<FirstName>Anthony</FirstName>
+<LastName>Aurgemma</LastName>
+<Phone>401-691-3350</Phone>
+<Email>aaurgemma@rihi.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003D7-1553865437</ListID>
+<Name>Authorize Customer</Name>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000169-1513084786</ListID>
+<Name>Avadanei, Vladimir</Name>
+<FirstName>Vladimir</FirstName>
+<LastName>Avadanei</LastName>
+<Phone>5164260944</Phone>
+<Email>voloa@optimum.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000048E-1568395464</ListID>
+<Name>Avidon, Harvey</Name>
+<FirstName>Harvey</FirstName>
+<LastName>Avidon</LastName>
+<Phone>781-341-2145</Phone>
+<Email>hdavidon@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000038F-1549030668</ListID>
+<Name>Baillargeon, Mark</Name>
+<FirstName>Mark</FirstName>
+<LastName>Baillargeon</LastName>
+<Phone>941-623-7030</Phone>
+<Email>paulandmarkconstruction@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000004E-1458573842</ListID>
+<Name>Baldino, John and Rachel</Name>
+<Phone>570-606-4119</Phone>
+<Email>baldinojd@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000049E-1570472873</ListID>
+<Name>Bannor, Evans</Name>
+<FirstName>Evans</FirstName>
+<LastName>Bannor</LastName>
+<Phone>703-855-5942</Phone>
+<Email>ebannor@vt.edu</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000029A-1532093128</ListID>
+<Name>Barbara Throndson</Name>
+<FirstName>Barbara</FirstName>
+<LastName>Throndson</LastName>
+<Phone>2149860314</Phone>
+<Email>eviesperry@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000450-1562777722</ListID>
+<Name>Barillas, Rosa</Name>
+<FirstName>Rosa</FirstName>
+<LastName>Barillas</LastName>
+<Phone>414-840-3458</Phone>
+<Email>barillasrosa@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000015D-1512756807</ListID>
+<Name>Basarb</Name>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000526-1579893425</ListID>
+<Name>Beardsley, Jonathan</Name>
+<FirstName>Jonathan</FirstName>
+<LastName>Beardsley</LastName>
+<Phone>585-567-4631</Phone>
+<Email>kbeardsley@fillmorecsd.org</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000415-1557950954</ListID>
+<Name>Beauregard, Jon</Name>
+<FirstName>Jon</FirstName>
+<LastName>Beauregard</LastName>
+<Phone>407-579-0615</Phone>
+<Email>beauregard_jon@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004DF-1576157004</ListID>
+<Name>Ben-David, Regina</Name>
+<FirstName>Regina</FirstName>
+<LastName>Ben-David</LastName>
+<Phone>917-690-6231</Phone>
+<Email>regina.chodosh@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000254-1525982820</ListID>
+<Name>Ben Anger</Name>
+<FirstName>Ben</FirstName>
+<LastName>Anger</LastName>
+<Phone>610-462-7564</Phone>
+<Email>anger.ben@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004DE-1576156028</ListID>
+<Name>Ben David, Regina</Name>
+<FirstName>Regina</FirstName>
+<LastName>Ben-David</LastName>
+<Phone>917-690-6231</Phone>
+<Email>regina.chodosh@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004F0-1577710608</ListID>
+<Name>Berardi, Susan</Name>
+<FirstName>Susan</FirstName>
+<LastName>Berardi</LastName>
+<Phone>410-461-3911</Phone>
+<Email>susanberardi@verizon.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000102-1507234239</ListID>
+<Name>Bernard Kotarski</Name>
+<FirstName>Bernard</FirstName>
+<LastName>Kotarski</LastName>
+<Phone>570-288-4778</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000424-1559061462</ListID>
+<Name>Bethel Construction of South Carolina</Name>
+<FirstName>Rody</FirstName>
+<LastName>Egister</LastName>
+<Phone>803-518-2935</Phone>
+<Email>WLTHOMPSON76@GMAIL.COM</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000044A-1562330711</ListID>
+<Name>BF Construction</Name>
+<FirstName>Bob</FirstName>
+<LastName>Franklin</LastName>
+<Email>bfconstruction@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000347-1542746370</ListID>
+<Name>Bichler Lane</Name>
+<FirstName>Robert</FirstName>
+<LastName>Baron</LastName>
+<Phone>570-817-0418</Phone>
+<Email>baronbo12@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000044B-1562330795</ListID>
+<Name>Giancarlo Vanity</Name>
+<FirstName>Bob</FirstName>
+<LastName>Franklin</LastName>
+<Email>bfconstruction@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000057D-1586876019</ListID>
+<Name>Big Bear Home Repair</Name>
+<FirstName>Lou</FirstName>
+<LastName>Hughes</LastName>
+<Email>louhugh1@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000393-1549030688</ListID>
+<Name>Big Trimming</Name>
+<FirstName>Lauren</FirstName>
+<LastName>Timmons</LastName>
+<Phone>7069936535</Phone>
+<Email>bigtrimmingllc@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000011B-1509032113</ListID>
+<Name>Bill and Karen Cooper</Name>
+<FirstName>Bill and Karen</FirstName>
+<LastName>Cooper</LastName>
+<Phone>570-846-1570 (Bill)</Phone>
+<Email>wfkac@comcast.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000282-1530117403</ListID>
+<Name>Bill and Patti Tyler</Name>
+<FirstName>Bill and Patti</FirstName>
+<LastName>Tyler</LastName>
+<Phone>610-304-8107</Phone>
+<Email>pdelre20@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001BA-1518033681</ListID>
+<Name>Billy Goodrich</Name>
+<FirstName>Billy</FirstName>
+<LastName>Goodrich</LastName>
+<Phone>570-236-3687</Phone>
+<Email>poconopdr@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000048B-1567787973</ListID>
+<Name>Blake Homes &amp; Construction</Name>
+<FirstName>Darren</FirstName>
+<LastName>Smith</LastName>
+<Phone>314-413-1075</Phone>
+<Email>dsmith@bathfitter.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004AA-1571671037</ListID>
+<Name>Smith</Name>
+<FirstName>Darren</FirstName>
+<LastName>Smith</LastName>
+<Phone>314-413-1075</Phone>
+<Email>dsmith@bathfitter.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000031B-1540583617</ListID>
+<Name>Blakeslee Home Improvement</Name>
+<Phone>5706468498</Phone>
+<Email>mhernandez.bhi@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001B0-1517066051</ListID>
+<Name>Bob Norton</Name>
+<FirstName>Bob</FirstName>
+<LastName>Norton</LastName>
+<Phone>570-840-4055</Phone>
+<Email>bob.norton@roadscholar.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000304-1538590167</ListID>
+<Name>Bob Schmidt</Name>
+<FirstName>Bob</FirstName>
+<LastName>Schmidt</LastName>
+<Phone>570-735-1018</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000389-1548685962</ListID>
+<Name>Bonavita, Louis</Name>
+<FirstName>Louis</FirstName>
+<LastName>Bonavita</LastName>
+<Phone>315-427-7701</Phone>
+<Email>lbona0220@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000052A-1580134493</ListID>
+<Name>Bonjour, Annette</Name>
+<FirstName>Annette</FirstName>
+<LastName>Bonjour</LastName>
+<Phone>414-238-1045</Phone>
+<Email>annettebonjour@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800005B9-1590432288</ListID>
+<Name>BORTHWELL, TIMMECA</Name>
+<FirstName>TIMMECA</FirstName>
+<LastName>BORTHWELL</LastName>
+<Phone>3108068183</Phone>
+<Email>timmecajones@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000510-1579030437</ListID>
+<Name>Brady, Jim</Name>
+<FirstName>Jim</FirstName>
+<LastName>Brady</LastName>
+<Phone>570-499-3206</Phone>
+<Email>Cotton6@frontier.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002CA-1535725873</ListID>
+<Name>Brandon Eaton</Name>
+<FirstName>Brandon</FirstName>
+<LastName>Eaton</LastName>
+<Email>neenss777@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000021C-1522697615</ListID>
+<Name>Brenda Seargeant</Name>
+<FirstName>Brenda</FirstName>
+<LastName>Seargeant</LastName>
+<Phone>8652507952</Phone>
+<Email>bseargeant@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000024F-1525718871</ListID>
+<Name>brian donato</Name>
+<FirstName>brian</FirstName>
+<LastName>donato</LastName>
+<Phone>7186503673</Phone>
+<Email>drydockbrian@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000327-1541510741</ListID>
+<Name>Brian Groff</Name>
+<FirstName>Brian</FirstName>
+<LastName>Groff</LastName>
+<Phone>7174135536</Phone>
+<Email>bgroff98@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003F4-1555610125</ListID>
+<Name>Brinker, Rob</Name>
+<FirstName>Rob</FirstName>
+<LastName>Brinker</LastName>
+<Phone>248-763-3623</Phone>
+<Email>rob_brinker@rocketmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000048D-1568378273</ListID>
+<Name>Brinker, Robert</Name>
+<FirstName>Robert</FirstName>
+<LastName>Brinker</LastName>
+<Phone>248-763-3623</Phone>
+<Email>rob_brinker@rocketmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001D9-1519317670</ListID>
+<Name>Brooke Ladner</Name>
+<FirstName>Brooke</FirstName>
+<LastName>Ladner</LastName>
+<Phone>7576138085</Phone>
+<Email>BROOKECLARKLADNER@GMAIL.COM</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000363-1545227540</ListID>
+<Name>Brooks, Regina</Name>
+<FirstName>Regina</FirstName>
+<LastName>Brooks</LastName>
+<Phone>15616139393</Phone>
+<Email>Reginakitxo@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000407-1556900014</ListID>
+<Name>Bross, Matt</Name>
+<FirstName>Matt</FirstName>
+<LastName>Bross</LastName>
+<Phone>954-907-6471</Phone>
+<Email>matt@bross.co</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000055E-1583153676</ListID>
+<Name>Brown, Ashley</Name>
+<FirstName>Ashley</FirstName>
+<LastName>Brown</LastName>
+<Phone>860-778-7876</Phone>
+<Email>ashleysmsa@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000037C-1547665215</ListID>
+<Name>Brown, Michael</Name>
+<FirstName>Michael</FirstName>
+<LastName>Brown</LastName>
+<Phone>570-216-6476</Phone>
+<Email>christym84@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000161-1512765412</ListID>
+<Name>Brusie, Tim</Name>
+<FirstName>Tim and Karen</FirstName>
+<LastName>Brusie</LastName>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004B1-1572461510</ListID>
+<Name>Elysburg</Name>
+<FirstName>Tim</FirstName>
+<LastName>Brusie</LastName>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000529-1580134471</ListID>
+<Name>brykova, galina</Name>
+<FirstName>galina</FirstName>
+<LastName>brykova</LastName>
+<Phone>916-502-5803</Phone>
+<Email>brykova@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000499-1569962144</ListID>
+<Name>Burgess, Rusty</Name>
+<FirstName>Rusty</FirstName>
+<LastName>Burgess</LastName>
+<Email>john@waverlycabinets.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000470-1565101838</ListID>
+<Name>Burns, Kevin</Name>
+<FirstName>Kevin</FirstName>
+<LastName>Burns</LastName>
+<Phone>732-673-3491</Phone>
+<Email>kburns625@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000523-1579812315</ListID>
+<Name>Butler, Julie (SS)</Name>
+<Phone>508-238-5233</Phone>
+<Email>jbutler65@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004D6-1575898599</ListID>
+<Name>Byrnes, Elisa</Name>
+<FirstName>Elisa</FirstName>
+<LastName>Byrnes</LastName>
+<Phone>518-221-0112</Phone>
+<Email>ebyrnes436@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000551-1582634343</ListID>
+<Name>Byron Property Investments LLC</Name>
+<FirstName>Kathy</FirstName>
+<LastName>Byron</LastName>
+<Phone>810-333-5150</Phone>
+<Email>byronkath11@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000509-1578921418</ListID>
+<Name>Camejo, Victor</Name>
+<FirstName>Victor</FirstName>
+<LastName>Camejo</LastName>
+<Phone>717-208-5273</Phone>
+<Email>vitico0307@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000234-1523923162</ListID>
+<Name>Carl Goeringer</Name>
+<FirstName>Carl</FirstName>
+<LastName>Goeringer</LastName>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000474-1565618123</ListID>
+<Name>Carlen, Peter</Name>
+<FirstName>Peter</FirstName>
+<LastName>Carlen</LastName>
+<Phone>570-603-0238</Phone>
+<Email>the4carlens@verizon.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004AB-1571746159</ListID>
+<Name>Carnahan, Tyler</Name>
+<FirstName>Tyler</FirstName>
+<LastName>Carnahan</LastName>
+<Phone>704-699-9169</Phone>
+<Email>tkcarnahan@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003F5-1555610204</ListID>
+<Name>Carney, Traci</Name>
+<FirstName>Traci</FirstName>
+<LastName>Carney</LastName>
+<Phone>412-841-0569</Phone>
+<Email>tcarney14@msn.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800000BB-1500384670</ListID>
+<Name>Carol Saulnier</Name>
+<FirstName>Carol</FirstName>
+<LastName>Saulnier</LastName>
+<Phone>6178219655</Phone>
+<Email>coachsabreswife@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000030B-1539365133</ListID>
+<Name>Carolyn Weaver</Name>
+<FirstName>Carolyn</FirstName>
+<LastName>Weaver</LastName>
+<Phone>703-819-1548</Phone>
+<Email>cweaverlbi@comcast.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000545-1581687337</ListID>
+<Name>Carriere, Kyle</Name>
+<FirstName>Kyle</FirstName>
+<LastName>Carriere</LastName>
+<Phone>337-250-8267</Phone>
+<Email>kylemcarriere@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000416-1558040756</ListID>
+<Name>Carroll, Michael T.</Name>
+<FirstName>Michael</FirstName>
+<LastName>Carroll</LastName>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003CF-1553517654</ListID>
+<Name>Carson, Matthew</Name>
+<FirstName>Matthew</FirstName>
+<LastName>Carson</LastName>
+<Phone>570-772-4825</Phone>
+<Email>doog2448@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000505-1578669337</ListID>
+<Name>Carter, Darius</Name>
+<FirstName>Darius</FirstName>
+<LastName>Carter</LastName>
+<Phone>303-242-2906</Phone>
+<Email>darius.tyson.carter@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001DA-1519335146</ListID>
+<Name>Casey Urmson</Name>
+<FirstName>Casey</FirstName>
+<LastName>Urmson</LastName>
+<Phone>5853655467</Phone>
+<Email>urmsoncm@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004FD-1578317295</ListID>
+<Name>Casey, Adam</Name>
+<FirstName>Adam</FirstName>
+<LastName>Casey</LastName>
+<Phone>603-361-1088</Phone>
+<Email>adamc523@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003FE-1556216649</ListID>
+<Name>Castaneda, Daniel</Name>
+<FirstName>Daniel</FirstName>
+<LastName>Castaneda</LastName>
+<Phone>772-446-9263</Phone>
+<Email>dancastaneda1@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002D2-1536754933</ListID>
+<Name>Catherine Bick</Name>
+<FirstName>Catherine</FirstName>
+<LastName>Bick</LastName>
+<Phone>3157253615</Phone>
+<Email>catiebick@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800000FF-1507214876</ListID>
+<Name>Cedar Crest Enterprises LLC</Name>
+<FirstName>Nick</FirstName>
+<LastName>Colucci</LastName>
+<Phone>516-225-7467</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000100-1507214911</ListID>
+<Name>Cedar Ent. Kingston</Name>
+<FirstName>Nick</FirstName>
+<LastName>Colucci</LastName>
+<Phone>516-225-7467</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000122-1510169236</ListID>
+<Name>Chad Pensyl</Name>
+<FirstName>Chad</FirstName>
+<LastName>Pensyl</LastName>
+<Email>steve@waverlycabinets.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000191-1515439527</ListID>
+<Name>Chaidir Hasanoeddin</Name>
+<FirstName>Chaidir</FirstName>
+<LastName>Hasanoeddin</LastName>
+<Phone>347-231-4671</Phone>
+<Email>partdeux@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001E4-1519681755</ListID>
+<Name>Chantella Ulmer</Name>
+<FirstName>Chantella</FirstName>
+<LastName>Ulmer</LastName>
+<Phone>8628881981</Phone>
+<Email>myguyjackhomeimprovementllc@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000576-1585342388</ListID>
+<Name>Charlantini, Jeanne</Name>
+<FirstName>Jeanne</FirstName>
+<LastName>Charlantini</LastName>
+<Phone>978-877-1341</Phone>
+<Email>charlantini@comcast.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000322-1541425154</ListID>
+<Name>Charles Winstead</Name>
+<FirstName>Charles</FirstName>
+<LastName>Winstead</LastName>
+<Phone>703-786-1604</Phone>
+<Email>ckwinstead@verizon.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000210-1521818091</ListID>
+<Name>Charley Vallero</Name>
+<FirstName>Charlie</FirstName>
+<LastName>Valerro</LastName>
+<Phone>718-530-3090</Phone>
+<Email>cjv713@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002B4-1533756130</ListID>
+<Name>Chet Poeta</Name>
+<FirstName>Chet</FirstName>
+<LastName>Poeta</LastName>
+<Phone>917-348-5293</Phone>
+<Email>cpoeta@betson.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003C5-1553088996</ListID>
+<Name>Chiaccheri, Georgina</Name>
+<FirstName>Georgina</FirstName>
+<LastName>Chiaccheri</LastName>
+<Phone>917-841-2292</Phone>
+<Email>gchiaccheri@paulweiss.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000582-1587509479</ListID>
+<Name>Childress, Kaitlin</Name>
+<FirstName>Kaitlin</FirstName>
+<LastName>Childress</LastName>
+<Phone>404-983-8044</Phone>
+<Email>kaitlin@aepropertiesde.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003BD-1552488446</ListID>
+<Name>Chipsflips</Name>
+<FirstName>CHARLES</FirstName>
+<LastName>WINTER</LastName>
+<Phone>203-257-8556</Phone>
+<Email>chipsflips@optonline.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003B4-1551380135</ListID>
+<Name>Chiseled Homes, LLC</Name>
+<FirstName>Dave</FirstName>
+<LastName>Gould</LastName>
+<Phone>724-321-8453</Phone>
+<Email>dave@chiseledhomes.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001AF-1516630769</ListID>
+<Name>Chris Mikolawski</Name>
+<FirstName>Chris</FirstName>
+<LastName>Mikolawski</LastName>
+<Phone>4845471100</Phone>
+<Email>cjconstruction.lv@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001CC-1518787029</ListID>
+<Name>Chris Robinson</Name>
+<FirstName>Chris</FirstName>
+<LastName>Robinson</LastName>
+<Phone>5135032216</Phone>
+<Email>crobinson18t@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000488-1566827753</ListID>
+<Name>Christie, Devon</Name>
+<FirstName>Devon</FirstName>
+<LastName>Christie</LastName>
+<Phone>3152004663</Phone>
+<Email>danjannuzzi@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000271-1529587775</ListID>
+<Name>Christine Perrino</Name>
+<FirstName>Christine</FirstName>
+<LastName>Perrino</LastName>
+<Phone>570-762-3664</Phone>
+<Email>christinep7036@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000017F-1514478513</ListID>
+<Name>Christophen Cutillo</Name>
+<FirstName>Christopher</FirstName>
+<LastName>Cutillo</LastName>
+<Phone>813-335-0067</Phone>
+<Email>qtillo@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800000BE-1500488991</ListID>
+<Name>CHUCK TUCKER</Name>
+<Phone>717-490-4343</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000015E-1512757061</ListID>
+<Name>Ciclico Propertie, LLC</Name>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003A7-1550236789</ListID>
+<Name>Cipher Company LLC</Name>
+<FirstName>Chelsea</FirstName>
+<LastName>Rogers</LastName>
+<Phone>9012998363</Phone>
+<Email>chelsea@ciphercompany.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000351-1543844597</ListID>
+<Name>Clemencia Avalos</Name>
+<FirstName>Clemencia</FirstName>
+<LastName>Avalos</LastName>
+<Phone>9802958818</Phone>
+<Email>castrorafael0192@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000211-1521818275</ListID>
+<Name>Cliff St</Name>
+<FirstName>Charlie</FirstName>
+<LastName>Valerro</LastName>
+<Phone>718-530-3090</Phone>
+<Email>cjv713@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000033A-1542225030</ListID>
+<Name>Cody Wise</Name>
+<FirstName>Cody</FirstName>
+<LastName>Wise</LastName>
+<Phone>803-747-4634</Phone>
+<Email>cody.wise@ontimetransportllc.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003C6-1553089591</ListID>
+<Name>Coggins, Jeffrey</Name>
+<FirstName>Jeffrey</FirstName>
+<LastName>Coggins</LastName>
+<Phone>917-268-2703</Phone>
+<Email>cogginsjeffrey@icloud.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000058C-1588641261</ListID>
+<Name>Coker, Cindy</Name>
+<FirstName>Cindy</FirstName>
+<LastName>Cocker</LastName>
+<Email>c.coker1002@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000433-1560704405</ListID>
+<Name>Colonial Properties</Name>
+<FirstName>Eddie</FirstName>
+<LastName>Utley</LastName>
+<Phone>570-995-1395</Phone>
+<Email>eddierl@ptd.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000344-1542736649</ListID>
+<Name>Columbia Kitchen</Name>
+<FirstName>Adam</FirstName>
+<LastName>Guiffrida</LastName>
+<Phone>5706043996</Phone>
+<Email>adamg@dinamicocorp.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000348-1542820796</ListID>
+<Name>Columbia Main Bath</Name>
+<FirstName>Adam</FirstName>
+<LastName>Guiffrida</LastName>
+<Phone>5706043996</Phone>
+<Email>adamg@dinamicocorp.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004E6-1576677028</ListID>
+<Name>Comeroski, Amy</Name>
+<FirstName>Amy</FirstName>
+<LastName>Comeroski</LastName>
+<Phone>401-996-9915</Phone>
+<Email>acomeroski@icloud.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000355-1544021283</ListID>
+<Name>Connect One</Name>
+<FirstName>Matthew</FirstName>
+<LastName>Zaloumis</LastName>
+<Phone>203-463-6010</Phone>
+<Email>Zaloumisconst@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000597-1589891086</ListID>
+<Name>ConsoliBYTE, LLC (1460518783)</Name>
+<FirstName>Keith</FirstName>
+<LastName>Palmer</LastName>
+<Phone>860-634-1602</Phone>
+<Email>Keith@ConsoliBYTE.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000595-1589401984</ListID>
+<Name>ConsoliBYTE, LLC (1809829327)</Name>
+<FirstName>Keith</FirstName>
+<LastName>Palmer</LastName>
+<Phone>860-634-1602</Phone>
+<Email>Keith@ConsoliBYTE.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000596-1589459466</ListID>
+<Name>ConsoliBYTE, LLC (1863349562)</Name>
+<FirstName>Keith</FirstName>
+<LastName>Palmer</LastName>
+<Phone>860-634-1602</Phone>
+<Email>Keith@ConsoliBYTE.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000035C-1544721161</ListID>
+<Name>Coote, Ian</Name>
+<FirstName>Ian</FirstName>
+<LastName>Coote</LastName>
+<Phone>724-710-7036</Phone>
+<Email>iancootemd@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000492-1568983260</ListID>
+<Name>Coulier, Brian</Name>
+<FirstName>Brian</FirstName>
+<LastName>Coulier</LastName>
+<Phone>616-566-0321</Phone>
+<Email>bjcoulier@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002F8-1538419352</ListID>
+<Name>Countertop</Name>
+<FirstName>Tom</FirstName>
+<LastName>Tarrant</LastName>
+<Phone>570-954-4068</Phone>
+<Email>tarr1031@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004B2-1572463566</ListID>
+<Name>cPaint Trim &amp; More</Name>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001A9-1516283839</ListID>
+<Name>Craig Kluchevitz</Name>
+<FirstName>Craig</FirstName>
+<LastName>Kluchevitz</LastName>
+<Phone>508-404-0171</Phone>
+<Email>kluda11@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003EA-1554904671</ListID>
+<Name>cubufan@comcast.net</Name>
+<Email>cubufan@comcast.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000052E-1580431781</ListID>
+<Name>curatolo, kathleen</Name>
+<FirstName>kathleen</FirstName>
+<LastName>curatolo</LastName>
+<Phone>239-357-3257</Phone>
+<Email>kathy@cbia.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004AE-1571859797</ListID>
+<Name>Curley, Rita</Name>
+<FirstName>Rita</FirstName>
+<LastName>Curley</LastName>
+<Phone>630-200-7750</Phone>
+<Email>dcurley@flash.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003D1-1553517657</ListID>
+<Name>Custom unique services</Name>
+<FirstName>Dennis</FirstName>
+<LastName>Perry</LastName>
+<Phone>239-603-5001</Phone>
+<Email>dperry1173@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000055A-1582911938</ListID>
+<Name>Cyndi Lindenmuth</Name>
+<FirstName>Cyndi</FirstName>
+<LastName>Lindenmuth</LastName>
+<Phone>570-356-2387</Phone>
+<Email>clindenmuth@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000437-1561381773</ListID>
+<Name>DaCosta, Katelynde</Name>
+<FirstName>Katelynde</FirstName>
+<LastName>DaCosta</LastName>
+<Phone>508-405-7708</Phone>
+<Email>Kbrown25@live.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000037D-1547730851</ListID>
+<Name>Dan Bohmer</Name>
+<FirstName>Dan</FirstName>
+<LastName>Bohmer</LastName>
+<Phone>5137393004</Phone>
+<Email>bohmer410@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000558-1582822968</ListID>
+<Name>Dan Vallerand</Name>
+<FirstName>Dan</FirstName>
+<LastName>Vallerand</LastName>
+<Phone>781-799-5261</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000383-1547845849</ListID>
+<Name>Daniel Abrial</Name>
+<FirstName>Daniel</FirstName>
+<LastName>Abrial</LastName>
+<Phone>3159820318</Phone>
+<Email>novabay@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000253-1525886959</ListID>
+<Name>Daniel Boucher</Name>
+<FirstName>Daniel</FirstName>
+<LastName>Boucher</LastName>
+<Phone>408-307-9112</Phone>
+<Email>daniel@fortbendbuilders.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002CC-1536064087</ListID>
+<Name>Daniel Glammeier</Name>
+<FirstName>Daniel</FirstName>
+<LastName>Glammeier</LastName>
+<Email>danielgl@live.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000142-1512483732</ListID>
+<Name>Daniel McGouldrick</Name>
+<FirstName>Daniel</FirstName>
+<LastName>McGouldrick</LastName>
+<Phone>4846953401</Phone>
+<Email>dannymac6969@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002B0-1533580765</ListID>
+<Name>DANIEL POLLOCK</Name>
+<FirstName>DANIEL</FirstName>
+<LastName>POLLOCK</LastName>
+<Phone>5852012179</Phone>
+<Email>pduck911@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000020E-1521809024</ListID>
+<Name>Daniel Varney</Name>
+<FirstName>Daniel</FirstName>
+<LastName>Varney</LastName>
+<Phone>530-257-0223</Phone>
+<Email>kathleenlv@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000028E-1531401213</ListID>
+<Name>Danny Ramer</Name>
+<FirstName>Danny</FirstName>
+<LastName>Ramer</LastName>
+<Phone>570-452-5297</Phone>
+<Email>dannyramer@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003E2-1554558696</ListID>
+<Name>dave@chiseledhomes.com</Name>
+<Email>dave@chiseledhomes.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002C8-1535721339</ListID>
+<Name>David Avalos</Name>
+<Phone>407-223-7114 </Phone>
+<Email>David@floor2celing.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000024A-1525699899</ListID>
+<Name>David Dishunts</Name>
+<FirstName>David</FirstName>
+<LastName>Dishunts</LastName>
+<Phone>7164186304</Phone>
+<Email>precisionremodel@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000056A-1583770147</ListID>
+<Name>David Gordon</Name>
+<FirstName>David</FirstName>
+<LastName>Gordon</LastName>
+<Phone>216-334-6565</Phone>
+<Email>dgordon1000@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002BD-1534774541</ListID>
+<Name>David Johse</Name>
+<FirstName>David</FirstName>
+<LastName>Johse</LastName>
+<Phone>979-285-5882</Phone>
+<Email>johsed@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000118-1508440192</ListID>
+<Name>David Kaufman</Name>
+<FirstName>David</FirstName>
+<LastName>Kaufman</LastName>
+<Phone>718-477-2018</Phone>
+<Email>onthaball613@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000023C-1524572097</ListID>
+<Name>David Koch</Name>
+<FirstName>David</FirstName>
+<LastName>Koch</LastName>
+<Phone>717-278-3129</Phone>
+<Email>david102165@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001EF-1520444184</ListID>
+<Name>David Sharon</Name>
+<FirstName>David</FirstName>
+<LastName>Sharon</LastName>
+<Phone>917-301-0684</Phone>
+<Email>dastrader@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000423-1559052104</ListID>
+<Name>David Vnuk</Name>
+<FirstName>David</FirstName>
+<LastName>Vnuk</LastName>
+<Phone>570-709-8415</Phone>
+<Email>davejsv721@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004CD-1575035781</ListID>
+<Name>DAVIDSON, JAMES</Name>
+<FirstName>JAMES</FirstName>
+<LastName>DAVIDSON</LastName>
+<Phone>478-954-3112</Phone>
+<Email>jdavidsonphoto@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000152-1512740555</ListID>
+<Name>Davis Real Estate, LLC</Name>
+<FirstName>Brian</FirstName>
+<LastName>Davis</LastName>
+<Phone>860-919-6996</Phone>
+<Email>briandavis675@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000048-1458331451</ListID>
+<Name>Davis, Jeff</Name>
+<Phone>480-232-7416</Phone>
+<Email>jdavis1735@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000048C-1568306004</ListID>
+<Name>Davison Monk Holdings, LLC</Name>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000035B-1544650939</ListID>
+<Name>DB Contracting NY</Name>
+<FirstName>Doug</FirstName>
+<LastName>Bogovich</LastName>
+<Phone>631-872-3287</Phone>
+<Email>dbcontractingny@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000196-1515769081</ListID>
+<Name>Deanna Jordan</Name>
+<FirstName>Deanna</FirstName>
+<LastName>Jordan</LastName>
+<Phone>8457058953</Phone>
+<Email>deannahaughjordan@icloud.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000023F-1524767317</ListID>
+<Name>Deb Jumper</Name>
+<FirstName>Deb</FirstName>
+<LastName>Jumper</LastName>
+<Phone>717-776-9330</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003CC-1553195938</ListID>
+<Name>DeBoe, Anastasia</Name>
+<FirstName>Anastasia</FirstName>
+<LastName>DeBoe</LastName>
+<Phone>703-477-2187</Phone>
+<Email>anastasia.deboe@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000367-1545656314</ListID>
+<Name>DeBosky, Benjamin</Name>
+<FirstName>Benjamin</FirstName>
+<LastName>DeBosky</LastName>
+<Phone>443-603-7408</Phone>
+<Email>aquapros1@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000417-1558113528</ListID>
+<Name>Debra Greco</Name>
+<FirstName>Debra</FirstName>
+<LastName>Greco</LastName>
+<Phone>917-923-1725</Phone>
+<Email>vegasdebbie@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000043C-1561465941</ListID>
+<Name>Decoursey, Susan</Name>
+<FirstName>Susan</FirstName>
+<LastName>Decoursey</LastName>
+<Phone>585-409-9970</Phone>
+<Email>decourseyd84@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003DF-1554220696</ListID>
+<Name>Deemer, Bill</Name>
+<FirstName>Bill</FirstName>
+<LastName>Deemer</LastName>
+<Phone>5709053454</Phone>
+<Email>wjdeemer@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000040F-1557425952</ListID>
+<Name>DeGaray, Sandra</Name>
+<FirstName>Sandra</FirstName>
+<LastName>DeGaray</LastName>
+<Phone>516-644-6565</Phone>
+<Email>sandradegaray@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002BC-1534770753</ListID>
+<Name>Deion Schmidt</Name>
+<FirstName>Deion</FirstName>
+<LastName>Schmidt</LastName>
+<Phone>4808248636</Phone>
+<Email>schmyzzu@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000578-1585843027</ListID>
+<Name>Delsite, Kevin</Name>
+<FirstName>Kevin</FirstName>
+<LastName>Desite</LastName>
+<Email>kdelsite@verizon.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004EF-1577549910</ListID>
+<Name>DeMattia, John</Name>
+<FirstName>John</FirstName>
+<LastName>DeMattia</LastName>
+<Phone>214-477-7787</Phone>
+<Email>johndem33@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000042C-1559827994</ListID>
+<Name>DeMuro, Joe</Name>
+<FirstName>Joe</FirstName>
+<LastName>DeMuro</LastName>
+<Phone>570-852-1514</Phone>
+<Email>coreyrigby13@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000197-1515769096</ListID>
+<Name>Denise Keckley</Name>
+<FirstName>Denise</FirstName>
+<LastName>Keckley</LastName>
+<Phone>6316620109</Phone>
+<Email>zaco77@optonline.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003DB-1553953717</ListID>
+<Name>Dennis Perry</Name>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000313-1540045653</ListID>
+<Name>Derek Izworski</Name>
+<FirstName>Derek</FirstName>
+<LastName>Izworski</LastName>
+<Phone>8103345815</Phone>
+<Email>derekizw@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002BA-1534346260</ListID>
+<Name>Derek Richard</Name>
+<FirstName>Derek</FirstName>
+<LastName>Richards</LastName>
+<Phone>315-868-2208</Phone>
+<Email>drichard@nhart.org</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000036A-1546265335</ListID>
+<Name>DeVilbiss, Brett</Name>
+<FirstName>Brett</FirstName>
+<LastName>DeVilbiss</LastName>
+<Phone>937-286-0442</Phone>
+<Email>brettdevilbiss@me.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000528-1579978930</ListID>
+<Name>Devonshire, Andrew</Name>
+<FirstName>Andrew</FirstName>
+<LastName>Devonshire</LastName>
+<Phone>239-603-5001</Phone>
+<Email>dperry1173@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800000D9-1503081473</ListID>
+<Name>Dinamico</Name>
+<FirstName>Adam</FirstName>
+<LastName>Guiffrida</LastName>
+<Phone>5706043996</Phone>
+<Email>adamg@dinamicocorp.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000053B-1580929470</ListID>
+<Name>110 Prospect Downstairs</Name>
+<FirstName>Adam</FirstName>
+<LastName>Guiffrida</LastName>
+<Phone>570-604-3996</Phone>
+<Email>adamg@dinamicocorp.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000053A-1580921445</ListID>
+<Name>110 Prospect Upstairs</Name>
+<FirstName>Adam</FirstName>
+<LastName>Guiffrida</LastName>
+<Phone>5706043996</Phone>
+<Email>adamg@dinamicocorp.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000112-1507924448</ListID>
+<Name>425 Colfax</Name>
+<FirstName>Adam</FirstName>
+<LastName>Guiffrida</LastName>
+<Phone>5706043996</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000113-1507924514</ListID>
+<Name>427 Colfax</Name>
+<FirstName>Adam</FirstName>
+<LastName>Guiffrida</LastName>
+<Phone>5706043996</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000111-1507924145</ListID>
+<Name>615 North Lincoln Ave</Name>
+<FirstName>Adam</FirstName>
+<LastName>Guiffrida</LastName>
+<Phone>5706043996</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>800000FD-1507207671</ListID>
+<Name>Dinamico Monroe - Bath</Name>
+<FirstName>Adam</FirstName>
+<LastName>Guiffrida</LastName>
+<Phone>5706043996</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>800000FE-1507207696</ListID>
+<Name>Dinamico Monroe - Kitchen</Name>
+<FirstName>Adam</FirstName>
+<LastName>Guiffrida</LastName>
+<Phone>5706043996</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003E3-1554728718</ListID>
+<Name>Doe, Joe</Name>
+<FirstName>Joe</FirstName>
+<LastName>Doe</LastName>
+<Phone>344</Phone>
+<Email>4333</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004CF-1575136963</ListID>
+<Name>Dohonish, Charlotte</Name>
+<FirstName>Charlotte</FirstName>
+<LastName>Dohonish</LastName>
+<Phone>610-739-1641</Phone>
+<Email>chardohanish@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002C2-1535393541</ListID>
+<Name>Dominic Pugliese</Name>
+<FirstName>Dominic</FirstName>
+<LastName>Pugliese</LastName>
+<Phone>609-402-6083</Phone>
+<Email>dominic.j.pugliese@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000352-1543844604</ListID>
+<Name>Donald Reigada</Name>
+<FirstName>Donald</FirstName>
+<LastName>Reigada</LastName>
+<Phone>6072449151</Phone>
+<Email>dr4uall@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000395-1549291294</ListID>
+<Name>Donnelly, Kevin</Name>
+<FirstName>Kevin</FirstName>
+<LastName>Donnelly</LastName>
+<Phone>8567616039</Phone>
+<Email>cyris1214@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000010D-1507912385</ListID>
+<Name>Doornbos</Name>
+<FirstName>Dane</FirstName>
+<LastName>Doornbos</LastName>
+<Phone>570-374-9394</Phone>
+<Email>ddoornbos@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000110-1507912479</ListID>
+<Name>Kitchen</Name>
+<FirstName>Dane</FirstName>
+<LastName>Doornbos</LastName>
+<Phone>570-374-9394</Phone>
+<Email>ddoornbos@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000010E-1507912413</ListID>
+<Name>Main Bath</Name>
+<FirstName>Dane</FirstName>
+<LastName>Doornbos</LastName>
+<Phone>570-374-9394</Phone>
+<Email>ddoornbos@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000010F-1507912459</ListID>
+<Name>Master Bath</Name>
+<FirstName>Dane</FirstName>
+<LastName>Doornbos</LastName>
+<Phone>570-374-9394</Phone>
+<Email>ddoornbos@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003B9-1552063760</ListID>
+<Name>Dorsey, Sean</Name>
+<FirstName>Sean</FirstName>
+<LastName>Dorsey</LastName>
+<Phone>281-748-2201</Phone>
+<Email>aamedia@comcast.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800000BA-1500384657</ListID>
+<Name>Douglas Carver</Name>
+<FirstName>Douglas</FirstName>
+<LastName>Carver</LastName>
+<Phone>339-933 1794</Phone>
+<Email>carver3781@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000013A-1511887679</ListID>
+<Name>Douglas Reeser</Name>
+<FirstName>Douglas</FirstName>
+<LastName>Reeser</LastName>
+<Phone>7728345136</Phone>
+<Email>sheila.reeser@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000391-1549030674</ListID>
+<Name>Dr.</Name>
+<FirstName>Louis</FirstName>
+<LastName>Bonavita</LastName>
+<Phone>3154277701</Phone>
+<Email>lbona0220@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003D6-1553797859</ListID>
+<Name>Dragonfly Homes LLC</Name>
+<FirstName>Michael</FirstName>
+<LastName>Kroupa</LastName>
+<Phone>502-991-2087</Phone>
+<Email>mike@dragonflyhomes.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000552-1582650737</ListID>
+<Name>Ducos, Carlos</Name>
+<FirstName>Carlos</FirstName>
+<LastName>Ducos</LastName>
+<Phone>973-626-3482</Phone>
+<Email>cducos20@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003B2-1551363162</ListID>
+<Name>dudley, Scott</Name>
+<FirstName>Scott</FirstName>
+<LastName>dudley</LastName>
+<Phone>+17275807139</Phone>
+<Email>bigdcustoms87@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000045A-1563485912</ListID>
+<Name>Dungworth, Duncan</Name>
+<FirstName>Duncan</FirstName>
+<LastName>Dungworth</LastName>
+<Email>ddungworth@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000092-1490968830</ListID>
+<Name>Dustin Ross Santorelli</Name>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000044E-1562762022</ListID>
+<Name>Duszak, Christina</Name>
+<FirstName>Christina</FirstName>
+<LastName>Duszak</LastName>
+<Phone>631-374-1678</Phone>
+<Email>cduszak@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000016B-1513356878</ListID>
+<Name>DVC Construction</Name>
+<FirstName>David</FirstName>
+<LastName>Corazza</LastName>
+<Email>riverdog11@verizon.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003FA-1556023219</ListID>
+<Name>dwyer, john</Name>
+<FirstName>john</FirstName>
+<LastName>dwyer</LastName>
+<Phone>603-630-6297</Phone>
+<Email>enrich1962@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003CE-1553517646</ListID>
+<Name>Ector, Laurie</Name>
+<FirstName>Laurie</FirstName>
+<LastName>Ector</LastName>
+<Phone>607-842-6179</Phone>
+<Email>laurie.ector@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000560-1583176819</ListID>
+<Name>Eder Brothers Ltd</Name>
+<FirstName>Robert</FirstName>
+<LastName>Eder</LastName>
+<Phone>513-886-7733</Phone>
+<Email>robert3337sr@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000150-1512510139</ListID>
+<Name>Edward Wiernusz</Name>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004D0-1575292124</ListID>
+<Name>Eglseder, Shawn</Name>
+<FirstName>Shawn</FirstName>
+<LastName>Eglseder</LastName>
+<Phone>239-839-9561</Phone>
+<Email>shawn.eglseder@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000049B-1570121713</ListID>
+<Name>Eidner, Lisa</Name>
+<FirstName>Lisa</FirstName>
+<LastName>Eidner</LastName>
+<Phone>2019953954</Phone>
+<Email>lisa.eidner@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000257-1526321102</ListID>
+<Name>Eight Point Const LLC</Name>
+<FirstName>Will</FirstName>
+<LastName>Stull</LastName>
+<Phone>570-457-76387</Phone>
+<Email>willstull94@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004C1-1574084410</ListID>
+<Name>Eisenhauer, Caroline</Name>
+<FirstName>Caroline</FirstName>
+<LastName>Eisenhauer</LastName>
+<Phone>609-339-5658</Phone>
+<Email>cedr1410@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002C0-1535030553</ListID>
+<Name>Elena Correa</Name>
+<FirstName>Elena</FirstName>
+<LastName>Correa</LastName>
+<Phone>+13059517055</Phone>
+<Email>helencorrea65@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000011D-1509390892</ListID>
+<Name>Elena Katarsky</Name>
+<FirstName>Elena</FirstName>
+<LastName>Katarsky</LastName>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000434-1560884286</ListID>
+<Name>Elizabeth Naiburg</Name>
+<FirstName>Elizabeth</FirstName>
+<LastName>Naiburg</LastName>
+<Phone>845-688-5307</Phone>
+<Email>lynnenaiburg@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000414-1557938043</ListID>
+<Name>Ellsworth, Tamarra</Name>
+<FirstName>Tamarra</FirstName>
+<LastName>Ellsworth</LastName>
+<Phone>518-429-6642</Phone>
+<Email>tamarraellsworth@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000213-1522068677</ListID>
+<Name>Estock, John</Name>
+<FirstName>John</FirstName>
+<LastName>Estock</LastName>
+<Phone>570-760-2045</Phone>
+<Email>estockconstruction@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000027D-1529958311</ListID>
+<Name>Ethel (J-I)</Name>
+<FirstName>Ethel</FirstName>
+<Phone>1-609-654-4897</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000250-1525797700</ListID>
+<Name>Evans, Bannor</Name>
+<FirstName>Evans</FirstName>
+<LastName>Bannor</LastName>
+<Phone>7038555942</Phone>
+<Email>thebannors@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000563-1583286608</ListID>
+<Name>Evans, Dan</Name>
+<FirstName>Dan</FirstName>
+<LastName>Evans</LastName>
+<Phone>570-510-3038</Phone>
+<Email>slb.rn@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003F7-1555952213</ListID>
+<Name>Evans, Greg</Name>
+<FirstName>Greg</FirstName>
+<LastName>Evans</LastName>
+<Phone>570-881-1521</Phone>
+<Email>gregevs@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000044-1458317289</ListID>
+<Name>Everett, William and Charlene</Name>
+<Phone>570-954-9429</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003B5-1551724390</ListID>
+<Name>Farida Milton</Name>
+<FirstName>Farida</FirstName>
+<LastName>Milton</LastName>
+<Phone>703-729-4846</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000058B-1588558143</ListID>
+<Name>Fermin, Rocio</Name>
+<FirstName>Rocio</FirstName>
+<LastName>Fermin</LastName>
+<Phone>201-726-0415</Phone>
+<Email>ferminmatos@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000014F-1512509977</ListID>
+<Name>Flooring in Nicholson</Name>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003BF-1552568570</ListID>
+<Name>Fluehr</Name>
+<FirstName>Laura</FirstName>
+<LastName>Fluerh</LastName>
+<Email>lfluehr@bellsouth.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000588-1587744387</ListID>
+<Name>Fogley, Warren</Name>
+<FirstName>Warren</FirstName>
+<LastName>Fogley</LastName>
+<Phone>512-827-5579</Phone>
+<Email>gimmick@vilenov.edu</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000394-1549044072</ListID>
+<Name>Foster, Tania</Name>
+<FirstName>Tania</FirstName>
+<LastName>Foster</LastName>
+<Phone>7203941706</Phone>
+<Email>cubufan@comcast.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000023A-1524260680</ListID>
+<Name>Fran and Mary Vezendy</Name>
+<Phone>570 881-6420</Phone>
+<Email>mvezendy@bloomu.edu</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000021B-1522420283</ListID>
+<Name>Francisco Dubon</Name>
+<FirstName>Francisco</FirstName>
+<LastName>Dubon</LastName>
+<Phone>804-745-4560</Phone>
+<Email>Universalmgchoice@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000261-1526992937</ListID>
+<Name>Frank Lepore</Name>
+<FirstName>Frank</FirstName>
+<LastName>Lepore</LastName>
+<Phone>7327798961</Phone>
+<Email>FTL55@YAHOO.COM</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000115-1508339666</ListID>
+<Name>Frank Nardone</Name>
+<FirstName>Frank</FirstName>
+<LastName>Nardone</LastName>
+<Phone>570-267-0045</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000145-1512495700</ListID>
+<Name>Frank Sobeck</Name>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000330-1541789424</ListID>
+<Name>Frankford, George</Name>
+<FirstName>George</FirstName>
+<LastName>Frankford</LastName>
+<Phone>7179517910</Phone>
+<Email>mountainridgeflooring@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000045C-1563539257</ListID>
+<Name>Freudenberger, Cynthia</Name>
+<FirstName>Cynthia</FirstName>
+<LastName>Freudenberger</LastName>
+<Phone>502-345-6842</Phone>
+<Email>cindyfreudenberger@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003AB-1550507855</ListID>
+<Name>Gafanhao, Maria</Name>
+<FirstName>Maria</FirstName>
+<LastName>Gafanhao</LastName>
+<Phone>732-494-9140</Phone>
+<Email>vgafanhao67@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000527-1579899353</ListID>
+<Name>Garcia, Ana</Name>
+<FirstName>Ana</FirstName>
+<LastName>Garcia</LastName>
+<Phone>312-439-4704</Phone>
+<Email>anag0809@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002E6-1537555909</ListID>
+<Name>Gary Aureli</Name>
+<FirstName>Gary</FirstName>
+<LastName>Aureli</LastName>
+<Phone>1 716 597 9793</Phone>
+<Email>ctaureli@roadrunner.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004EC-1576879925</ListID>
+<Name>Gass, Dennis</Name>
+<FirstName>Dennis</FirstName>
+<LastName>Gass</LastName>
+<Phone>610-637-9417</Phone>
+<Email>dendun35@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000057C-1586816763</ListID>
+<Name>Gatto, Tracy</Name>
+<FirstName>Tracy</FirstName>
+<LastName>Gatto</LastName>
+<Phone>516-860-8809</Phone>
+<Email>Tracyhgatto@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003AD-1550846838</ListID>
+<Name>Gauntt, Robert</Name>
+<FirstName>Robert</FirstName>
+<LastName>Gauntt</LastName>
+<Phone>845-331-3872</Phone>
+<Email>etchedinstone@hvc.rr.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000557-1582729204</ListID>
+<Name>Genuine Home Builders, Inc</Name>
+<FirstName>Kim</FirstName>
+<LastName>Todd</LastName>
+<Phone>239-263-5015</Phone>
+<Email>Info@genuinehomebuilders.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002AB-1533225271</ListID>
+<Name>George Olteanu</Name>
+<FirstName>George</FirstName>
+<LastName>Olteanu</LastName>
+<Phone>347 834 6855</Phone>
+<Email>Aurelnsean@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001E9-1520274591</ListID>
+<Name>Gerry Elliott</Name>
+<FirstName>Gerry</FirstName>
+<LastName>Elliott</LastName>
+<Phone>3157494310</Phone>
+<Email>elliottg469@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000212-1521836858</ListID>
+<Name>GGY Properties</Name>
+<FirstName>Rangesh</FirstName>
+<LastName>Shah</LastName>
+<Email>ggyproperties@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000515-1579109788</ListID>
+<Name>1421 Capouse</Name>
+<FirstName>Rangesh</FirstName>
+<LastName>Shah</LastName>
+<Email>ggyproperties@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000430-1560194809</ListID>
+<Name>1423 Capouse</Name>
+<FirstName>Randgesh</FirstName>
+<LastName>Shah</LastName>
+<Phone>570-351-1724</Phone>
+<Email>ggyproperties@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000427-1559176989</ListID>
+<Name>Ash St</Name>
+<Phone>570-351-1724</Phone>
+<Email>ggyproperties@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000312-1539967783</ListID>
+<Name>GGY Hyde Park</Name>
+<FirstName>Randgesh</FirstName>
+<LastName>Shah</LastName>
+<Phone>570-351-1724</Phone>
+<Email>ggyproperties@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000343-1542733073</ListID>
+<Name>GGY Hyde Park 2nd Fl</Name>
+<FirstName>Randgesh</FirstName>
+<LastName>Shah</LastName>
+<Phone>570-351-1724</Phone>
+<Email>ggyproperties@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000341-1542664992</ListID>
+<Name>GGY Monroe Ave</Name>
+<FirstName>Randgesh</FirstName>
+<LastName>Shah</LastName>
+<Phone>570-351-1724</Phone>
+<Email>ggyproperties@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000058F-1588722881</ListID>
+<Name>Highland Ave</Name>
+<FirstName>Rangesh</FirstName>
+<LastName>Shah</LastName>
+<Email>ggyproperties@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000397-1549300332</ListID>
+<Name>Luzerne St</Name>
+<FirstName>Randgesh</FirstName>
+<LastName>Shah</LastName>
+<Phone>570-351-1724</Phone>
+<Email>ggyproperties@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000042E-1560194550</ListID>
+<Name>Oakwood</Name>
+<FirstName>Randgesh</FirstName>
+<LastName>Shah</LastName>
+<Phone>570-351-1724</Phone>
+<Email>ggyproperties@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002AF-1533569312</ListID>
+<Name>Quincy Ave</Name>
+<Phone>570-351-1724</Phone>
+<Email>ggyproperties@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000410-1557437765</ListID>
+<Name>Giancarlo, Patricia E</Name>
+<FirstName>Patricia</FirstName>
+<LastName>Giancarlo</LastName>
+<Phone>570-344-5855</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000570-1584448873</ListID>
+<Name>Gina Hollis</Name>
+<FirstName>Gina</FirstName>
+<LastName>Hollis</LastName>
+<Phone>913-608-5654</Phone>
+<Email>gina@englewoodbeachhouse.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000053D-1581340820</ListID>
+<Name>Giulaino, Joseph</Name>
+<FirstName>Joseph</FirstName>
+<LastName>Giulaino</LastName>
+<Phone>845-988-7702</Phone>
+<Email>jgiuliano60@optonline.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004D5-1575661876</ListID>
+<Name>Gleco, Jeff</Name>
+<FirstName>Jeff</FirstName>
+<LastName>Gleco</LastName>
+<Phone>570-574-1525</Phone>
+<Email>jgleco@pa.metrocast.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000042D-1559939988</ListID>
+<Name>Glen Arthur</Name>
+<FirstName>Glen</FirstName>
+<LastName>Arthur</LastName>
+<Phone>570-575-0981</Phone>
+<Email>glena0981@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004C7-1574345995</ListID>
+<Name>Glenn, Ashley</Name>
+<FirstName>Ashley</FirstName>
+<LastName>Glenn</LastName>
+<Phone>615-812-7856</Phone>
+<Email>ashley@bosombuddynashville.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000541-1581457895</ListID>
+<Name>Gonzalez, Alexandrea</Name>
+<FirstName>Alexendrea</FirstName>
+<LastName>Gonzalez</LastName>
+<Phone>704-776-0077</Phone>
+<Email>alex.gonzalez1108@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001B4-1517601069</ListID>
+<Name>Goss, Jason &amp; Rachel</Name>
+<FirstName>Jason &amp; Rachel</FirstName>
+<LastName>Goss</LastName>
+<Phone>570-396-2830</Phone>
+<Email>Jasongoss917@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000422-1558706311</ListID>
+<Name>Graham, Grayland</Name>
+<FirstName>Grayland</FirstName>
+<LastName>Graham</LastName>
+<Phone>8928</Phone>
+<Email>ggraham38@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000490-1568840820</ListID>
+<Name>Gray, Jeffery</Name>
+<FirstName>Jeffery</FirstName>
+<LastName>Gray</LastName>
+<Phone>607-765-0890</Phone>
+<Email>jeffrey.gray1304@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000547-1581971383</ListID>
+<Name>Gray, Jeffrey</Name>
+<FirstName>Jeffrey</FirstName>
+<LastName>Gray</LastName>
+<Phone>607-765-0890</Phone>
+<Email>jeffrey.gray1304@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003FB-1556034358</ListID>
+<Name>Greg, Evans</Name>
+<FirstName>Evans</FirstName>
+<LastName>Greg</LastName>
+<Phone>570-881-1521</Phone>
+<Email>gregevs@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000114-1508330106</ListID>
+<Name>Gregg &amp; Nicole Foster</Name>
+<FirstName>Gregg</FirstName>
+<LastName>Foster</LastName>
+<Phone>570-352-8661</Phone>
+<Email>fossill23@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002B5-1534164912</ListID>
+<Name>gregg wickstrom</Name>
+<FirstName>gregg</FirstName>
+<LastName>wickstrom</LastName>
+<Phone>9412868252</Phone>
+<Email>gwickstrom@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002E8-1537877188</ListID>
+<Name>Gregory DeRosso</Name>
+<FirstName>Gregory</FirstName>
+<LastName>DeRosso</LastName>
+<Phone>3472786169</Phone>
+<Email>gregderosso@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000473-1565618122</ListID>
+<Name>GroMorHogs</Name>
+<FirstName>ken</FirstName>
+<LastName>morcom</LastName>
+<Phone>570-278-2044</Phone>
+<Email>kenmorcom@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004A4-1570829142</ListID>
+<Name>Gruhler, Rick</Name>
+<FirstName>Rick</FirstName>
+<LastName>Gruhler</LastName>
+<Email>rick.gruhlerde@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000317-1540383974</ListID>
+<Name>GTM Properties LLC</Name>
+<Phone>570-309-1095</Phone>
+<Email>jason@agency570.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000318-1540384082</ListID>
+<Name>215 Charles Street</Name>
+<Phone>570-309-1095</Phone>
+<Email>jason@agency570.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000053F-1581447336</ListID>
+<Name>Gumudavelli Sridhar</Name>
+<FirstName>Gumudavelli</FirstName>
+<LastName>Sridhar</LastName>
+<Email>sricharan21@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000053E-1581341050</ListID>
+<Name>Haider, Renee</Name>
+<FirstName>Renee</FirstName>
+<LastName>Haider</LastName>
+<Phone>732-521-5399</Phone>
+<Email>rohaider@verizon.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000381-1547744979</ListID>
+<Name>HAINES, ROBERT</Name>
+<FirstName>ROBERT</FirstName>
+<LastName>HAINES</LastName>
+<Phone>+15859443665</Phone>
+<Email>bobhaines10@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000039D-1549895931</ListID>
+<Name>Hammond, Julie</Name>
+<FirstName>Julie</FirstName>
+<LastName>Hammond</LastName>
+<Phone>8702020751</Phone>
+<Email>julie_h2002@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000455-1563208647</ListID>
+<Name>Hamoud, Habib</Name>
+<FirstName>Habib</FirstName>
+<LastName>Hamoud</LastName>
+<Phone>347-393-7659</Phone>
+<Email>Ceruleanfox17@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002AC-1533233602</ListID>
+<Name>Handyman 4 Hire</Name>
+<FirstName>Arron</FirstName>
+<LastName>Eckels</LastName>
+<Email>arrone79@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004C4-1574170737</ListID>
+<Name>Harness</Name>
+<FirstName>Norma</FirstName>
+<LastName>Harness</LastName>
+<Phone>518-265-1523</Phone>
+<Email>hennessn64@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002E9-1537877189</ListID>
+<Name>Harvey Green</Name>
+<FirstName>Harvey</FirstName>
+<LastName>Green</LastName>
+<Phone>315-725-0229</Phone>
+<Email>harvg2223@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000571-1584479896</ListID>
+<Name>Hatzipetro, Mitch</Name>
+<FirstName>Mitch</FirstName>
+<LastName>Hatzipetro</LastName>
+<Phone>401-874-7852</Phone>
+<Email>Mitch_hatzi@uri.edu</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000590-1588727802</ListID>
+<Name>Hayes, James</Name>
+<FirstName>James</FirstName>
+<LastName>Hayes</LastName>
+<Phone>515-724-2873</Phone>
+<Email>anahayes234@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000323-1541435241</ListID>
+<Name>Heather Phillips</Name>
+<FirstName>Heather</FirstName>
+<LastName>Phillips</LastName>
+<Phone>570-709-3430</Phone>
+<Email>mamabear905</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000297-1532091252</ListID>
+<Name>Heather Reynolds</Name>
+<FirstName>Heather</FirstName>
+<LastName>Reynolds</LastName>
+<Phone>865-243-0041</Phone>
+<Email>handsrendered@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000371-1546868256</ListID>
+<Name>Heavey, Dawn</Name>
+<FirstName>Dawn</FirstName>
+<LastName>Heavey</LastName>
+<Phone>8432001876</Phone>
+<Email>ed@charlestonhomeworx.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004B0-1571950318</ListID>
+<Name>Hellinger, Shimoin</Name>
+<FirstName>Shimon</FirstName>
+<LastName>Hellinger</LastName>
+<Phone>718-208-0563</Phone>
+<Email>doverrov@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800005BD-1590433008</ListID>
+<Name>Hendriks, Airica</Name>
+<FirstName>Airica</FirstName>
+<LastName>Hendriks</LastName>
+<Phone>9202022089</Phone>
+<Email>airica.hendriks@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000014D-1512508800</ListID>
+<Name>Herta Ghingold</Name>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000466-1564489524</ListID>
+<Name>Hertlein, Charles</Name>
+<FirstName>Charles</FirstName>
+<LastName>Hertlein</LastName>
+<Phone>513-470-4610</Phone>
+<Email>saraemaria1184@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000179-1513719161</ListID>
+<Name>Highwood-USA</Name>
+<FirstName>Chris</FirstName>
+<LastName>Whipple</LastName>
+<Phone>610-573-9601</Phone>
+<Email>cwippel@highwood-usa</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000309-1539019926</ListID>
+<Name>His Mansion Ministries</Name>
+<FirstName>Timothy</FirstName>
+<LastName>Truitt</LastName>
+<Phone>570-983-8909</Phone>
+<Email>tim@hismansion.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003D4-1553778118</ListID>
+<Name>Hitchcock, Andrew</Name>
+<FirstName>Andrew</FirstName>
+<LastName>Hitchcock</LastName>
+<Phone>603-657-4896</Phone>
+<Email>drewthesteelman@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004B3-1572539176</ListID>
+<Name>Hoeck, Kitty</Name>
+<FirstName>Kitty</FirstName>
+<LastName>Hoeck</LastName>
+<Phone>703-670-3360</Phone>
+<Email>kdhoeck@msn.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000027C-1529956810</ListID>
+<Name>Hoeffner, Frank</Name>
+<FirstName>Frank</FirstName>
+<LastName>Hoeffner</LastName>
+<Phone>570-267-5011</Phone>
+<Email>fhoeffner130@comcast.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000538-1580910415</ListID>
+<Name>Hoffman, Rocky</Name>
+<FirstName>Rocky</FirstName>
+<LastName>Hoffman</LastName>
+<Phone>210-330-4376</Phone>
+<Email>rhoffman@dawson8A.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000058E-1588648828</ListID>
+<Name>Hoffower, Marc</Name>
+<FirstName>Marc</FirstName>
+<LastName>Hoffower</LastName>
+<Phone>860-933-9280</Phone>
+<Email>marc.hoffower@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004E4-1576615561</ListID>
+<Name>Holmes, Ken</Name>
+<FirstName>Ken</FirstName>
+<LastName>Holmes</LastName>
+<Phone>503-539-3733</Phone>
+<Email>kenholmes2@msn.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000575-1585325700</ListID>
+<Name>Hoover, Stephen</Name>
+<FirstName>Stephen</FirstName>
+<LastName>Hoover</LastName>
+<Phone>570-704-6317</Phone>
+<Email>sdhoov1@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000036D-1546436532</ListID>
+<Name>Horton, Tom</Name>
+<FirstName>Tom</FirstName>
+<LastName>Horton</LastName>
+<Phone>843-331-7128</Phone>
+<Email>tomhorton43@outlook.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003CB-1553195936</ListID>
+<Name>House 2 Home Investments, LLC</Name>
+<FirstName>Dawn</FirstName>
+<LastName>Milinazzo</LastName>
+<Phone>856-210-3643</Phone>
+<Email>housetohomeinv@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000584-1587605182</ListID>
+<Name>Paulson</Name>
+<FirstName>Dawn</FirstName>
+<LastName>Milinazzo</LastName>
+<Phone>856-210-3643</Phone>
+<Email>housetohomeinv@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003AE-1550947786</ListID>
+<Name>Hufford&apos;s Handyman Service</Name>
+<FirstName>Albert</FirstName>
+<LastName>Hufford</LastName>
+<Phone>570-718-1644</Phone>
+<Email>bbtwin1@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000205-1521463296</ListID>
+<Name>Hummel, Mike</Name>
+<FirstName>Mike</FirstName>
+<LastName>Hummel</LastName>
+<Phone>6102482355</Phone>
+<Email>mikehummelrealtor@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000508-1578755934</ListID>
+<Name>Humrickhouse, Candle</Name>
+<FirstName>Candle</FirstName>
+<LastName>Humrickhouse</LastName>
+<Phone>509-949-5922</Phone>
+<Email>c-lynn@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000042-1458235080</ListID>
+<Name>Hunsinger, James and Kim</Name>
+<Phone>570-709-0010</Phone>
+<Email>loftusk@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000052B-1580395559</ListID>
+<Name>Hunter, Suesan</Name>
+<FirstName>Suesan</FirstName>
+<LastName>Hunter</LastName>
+<Phone>617-515-0939</Phone>
+<Email>SSHUNTER731@GMAIL.COM</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000409-1557148882</ListID>
+<Name>Huyler, William</Name>
+<FirstName>William</FirstName>
+<LastName>Huyler</LastName>
+<Phone>267-539-0660</Phone>
+<Email>billbillybill1@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800005C2-1590466527</ListID>
+<Name>IBM</Name>
+<FirstName>Cynthia</FirstName>
+<LastName>Davis</LastName>
+<Phone>+14108049542</Phone>
+<Email>cynthia023@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000011E-1509710969</ListID>
+<Name>Ines Cortes</Name>
+<FirstName>Ines</FirstName>
+<LastName>Cortes</LastName>
+<Phone>6175844439</Phone>
+<Email>inescortessantos@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000384-1547913072</ListID>
+<Name>Ingianni, Robert</Name>
+<FirstName>Robert</FirstName>
+<LastName>Ingianni</LastName>
+<Phone>203 729-8458</Phone>
+<Email>ringianni@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000055D-1583153655</ListID>
+<Name>Integraclesn&amp;dry</Name>
+<FirstName>Scott</FirstName>
+<LastName>Amberg</LastName>
+<Phone>570-263-0747</Phone>
+<Email>integraclean@gmail.com.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004FE-1578362794</ListID>
+<Name>Intuitive Homes Ltd</Name>
+<FirstName>Barrone</FirstName>
+<LastName>Marilyn</LastName>
+<Phone>570-430-0141</Phone>
+<Email>marileebarone@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000504-1578584910</ListID>
+<Name>Tulip Circle</Name>
+<FirstName>Barrone</FirstName>
+<LastName>Marilyn</LastName>
+<Phone>570-430-0141</Phone>
+<Email>marileebarone@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004D1-1575323806</ListID>
+<Name>Irby, William</Name>
+<FirstName>William</FirstName>
+<LastName>Irby</LastName>
+<Phone>864-940-3799</Phone>
+<Email>william.irby@michelin.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000121-1510071597</ListID>
+<Name>Irwin Nolt</Name>
+<FirstName>Irwin</FirstName>
+<LastName>Nolt</LastName>
+<Phone>717-277-1102</Phone>
+<Email>noltnursery@abcmailbox.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000056B-1583774308</ListID>
+<Name>Isaac Mitchell</Name>
+<FirstName>Isaac</FirstName>
+<LastName>Mitchell</LastName>
+<Phone>(570) 396-3271</Phone>
+<Email>imitchell@keystone.edu</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000012B-1511193582</ListID>
+<Name>Iva Pici</Name>
+<FirstName>Iva</FirstName>
+<LastName>Pici</LastName>
+<Phone>347-641-6877</Phone>
+<Email>ivapici@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000012E-1511277315</ListID>
+<Name>Jack Janusis</Name>
+<FirstName>Jack</FirstName>
+<LastName>Janusis</LastName>
+<Email>yooitsbigmac@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000295-1531916548</ListID>
+<Name>Jalin Lachepelle</Name>
+<FirstName>Jalin</FirstName>
+<LastName>Lachepelle</LastName>
+<Phone>516-286-9133</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000359-1544463489</ListID>
+<Name>James R Schiltz</Name>
+<FirstName>James</FirstName>
+<LastName>Schiltz</LastName>
+<Phone>828-228-9892</Phone>
+<Email>Dirtwrap@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000245-1525351017</ListID>
+<Name>James Trusse</Name>
+<FirstName>James</FirstName>
+<LastName>Trusse</LastName>
+<Phone>570-704-6317</Phone>
+<Email>steve@waverlycabinets.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000447-1562006154</ListID>
+<Name>James Vonroy</Name>
+<FirstName>james</FirstName>
+<LastName>Vonroy</LastName>
+<Phone>347-528-4507</Phone>
+<Email>vljames75@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000127-1510582001</ListID>
+<Name>james williams</Name>
+<FirstName>James</FirstName>
+<LastName>Williams</LastName>
+<Phone>757-362-2337</Phone>
+<Email>jameswilliams974@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800000BC-1500392417</ListID>
+<Name>James Wyse</Name>
+<FirstName>James</FirstName>
+<LastName>Wyse</LastName>
+<Email>jameswyse@comcast.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000038A-1548685965</ListID>
+<Name>James, Janae</Name>
+<FirstName>Janae</FirstName>
+<LastName>James</LastName>
+<Phone>4104560248</Phone>
+<Email>janae.james@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000448-1562162646</ListID>
+<Name>James, Vonroy</Name>
+<FirstName>Vonroy</FirstName>
+<LastName>James</LastName>
+<Phone>347-528-4507</Phone>
+<Email>vljames75@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001BF-1518199326</ListID>
+<Name>Jamie Spindler</Name>
+<FirstName>Jamie</FirstName>
+<LastName>Spindler</LastName>
+<Phone>5707046317</Phone>
+<Email>steve@waverlycabinets.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000017D-1513979201</ListID>
+<Name>Jamie Spindler.</Name>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000045D-1563545552</ListID>
+<Name>Jane</Name>
+<FirstName>Jane</FirstName>
+<Email>ivyenglish@verizon.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000208-1521549740</ListID>
+<Name>Janell Hay</Name>
+<FirstName>Janell</FirstName>
+<LastName>Hay</LastName>
+<Phone>5415142191</Phone>
+<Email>bowlamat@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001B1-1517067228</ListID>
+<Name>Janelle Greenwald</Name>
+<FirstName>Janelle</FirstName>
+<LastName>Greenwald</LastName>
+<Phone>7203333452</Phone>
+<Email>muttleycrew1@comcast.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000014B-1512504267</ListID>
+<Name>Jason Lambert</Name>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000149-1512503383</ListID>
+<Name>Jason Smith</Name>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000425-1559141555</ListID>
+<Name>Jason Wujick</Name>
+<FirstName>Jason</FirstName>
+<LastName>Wujick</LastName>
+<Email>jwujcik1970@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000131-1511378267</ListID>
+<Name>Jeff Cody</Name>
+<FirstName>Jeff</FirstName>
+<LastName>Cody</LastName>
+<Phone>423-309-1358</Phone>
+<Email>deerelilman54@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000275-1529930793</ListID>
+<Name>Jeff Martinez</Name>
+<FirstName>Jeff</FirstName>
+<LastName>Martinez</LastName>
+<Phone>510-410-0573</Phone>
+<Email>jeff.martinez29@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000014C-1512507482</ListID>
+<Name>Jeff Tardibone</Name>
+<FirstName>Jeff</FirstName>
+<LastName>Tardibone</LastName>
+<Phone>3157307957</Phone>
+<Email>tardibone1@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000180-1514558901</ListID>
+<Name>Jeffery Yutzy</Name>
+<FirstName>Jeffery</FirstName>
+<LastName>Yutzy</LastName>
+<Phone>4406104407</Phone>
+<Email>jeff.yutzy@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002CD-1536071165</ListID>
+<Name>Jeffrey Rice</Name>
+<FirstName>Jeffrey</FirstName>
+<LastName>Rice</LastName>
+<Phone>732-357-7279</Phone>
+<Email>riverdocks@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002A2-1533040132</ListID>
+<Name>Jeffrey Southworth</Name>
+<FirstName>Jeffrey</FirstName>
+<LastName>Southworth</LastName>
+<Phone>518-339-2205</Phone>
+<Email>Jeff.southworth225@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002E3-1537540044</ListID>
+<Name>Jeffrey Steigman</Name>
+<FirstName>Jeffrey</FirstName>
+<LastName>Steigman</LastName>
+<Phone>5614455288</Phone>
+<Email>jasteigman@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001B3-1517500105</ListID>
+<Name>Jennifer Robbins</Name>
+<FirstName>Jennifer</FirstName>
+<LastName>Robbins</LastName>
+<Phone>5018026010</Phone>
+<Email>jennifer.meek@hpsdistrict.org</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002BE-1534782172</ListID>
+<Name>Jerome and Cristen O&apos;Brien</Name>
+<FirstName>Jerome and Cristen</FirstName>
+<LastName>O&apos;Brien</LastName>
+<Phone>570-606-6787</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000032D-1541619536</ListID>
+<Name>Jesse Sanchez</Name>
+<FirstName>Jesse</FirstName>
+<LastName>Sanchez</LastName>
+<Phone>8452137108</Phone>
+<Email>JesseSan82@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000349-1543237876</ListID>
+<Name>Jessica Cullen</Name>
+<FirstName>Jessica</FirstName>
+<LastName>Cullen</LastName>
+<Phone>5402706804</Phone>
+<Email>jessica.cullen1@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000231-1523880926</ListID>
+<Name>Jessica Cutler</Name>
+<FirstName>Jessica</FirstName>
+<LastName>Cutler</LastName>
+<Phone>4403393449</Phone>
+<Email>ilovemyjs06@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000154-1512749555</ListID>
+<Name>Jharth</Name>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000165-1513006024</ListID>
+<Name>Jim &amp; Cindy Sulima</Name>
+<FirstName>Jim &amp; Cindy</FirstName>
+<LastName>Sulima</LastName>
+<Phone>570-881-1824</Phone>
+<Email>csulima1985@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000374-1546875811</ListID>
+<Name>JNJ Contractors</Name>
+<FirstName>Jed</FirstName>
+<LastName>Myers</LastName>
+<Phone>570-579-3264</Phone>
+<Email>jed@jnj-contractors.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000216-1522094493</ListID>
+<Name>Job 1</Name>
+<FirstName>Thomas</FirstName>
+<LastName>Walsh</LastName>
+<Phone>248-762-3685</Phone>
+<Email>tfhwalsh@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001F2-1520541507</ListID>
+<Name>Joe &amp; Katrina Root</Name>
+<Phone>607 349-5685</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000133-1511790537</ListID>
+<Name>Joe Calan</Name>
+<FirstName>Joe</FirstName>
+<LastName>Calan</LastName>
+<Phone>201-655-8020</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002B6-1534166633</ListID>
+<Name>Joe Casale (K-S)</Name>
+<Phone>570-604-0762</Phone>
+<Email>jcasale917@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000334-1542125457</ListID>
+<Name>Joe Gorda</Name>
+<FirstName>Joe</FirstName>
+<LastName>Gorda</LastName>
+<Email>jomarbiz@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004BB-1573224543</ListID>
+<Name>Joe Stodola</Name>
+<FirstName>Joe</FirstName>
+<LastName>Stodola</LastName>
+<Phone>321-277-2018</Phone>
+<Email>jstodola1966@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000023B-1524498703</ListID>
+<Name>Joel Maillie</Name>
+<FirstName>Joel</FirstName>
+<LastName>Maillie</LastName>
+<Phone>8039178558</Phone>
+<Email>mayleeman@earthlink.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000200-1521116982</ListID>
+<Name>John &amp; Lori Morris</Name>
+<FirstName>John &amp; Lori</FirstName>
+<LastName>Morris</LastName>
+<Phone>570-823-2754</Phone>
+<Email>info@johnvmorrisfuneralhome.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000025C-1526573414</ListID>
+<Name>John Beemer</Name>
+<FirstName>John</FirstName>
+<LastName>Beemer</LastName>
+<Phone>484-678-5614</Phone>
+<Email>JBeemer836@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000022D-1523562206</ListID>
+<Name>John Orr</Name>
+<FirstName>John</FirstName>
+<LastName>Orr</LastName>
+<Phone>570-575-1675</Phone>
+<Email>matt@orrindustries.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800000DA-1503937242</ListID>
+<Name>John Palmer</Name>
+<FirstName>John</FirstName>
+<LastName>Palmer</LastName>
+<Phone>914-456-7075</Phone>
+<Email>johnpalmer1972@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000014E-1512508920</ListID>
+<Name>John Sartinin</Name>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000181-1514559157</ListID>
+<Name>John Slaughter</Name>
+<FirstName>John</FirstName>
+<LastName>Slaughter</LastName>
+<Phone>2108464677</Phone>
+<Email>Walkindude1313@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000030A-1539350836</ListID>
+<Name>John Turner</Name>
+<FirstName>John</FirstName>
+<LastName>Turner</LastName>
+<Phone>570-237-1221</Phone>
+<Email>johnboy1616@verizon.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001F4-1520861930</ListID>
+<Name>John Wilson</Name>
+<FirstName>John</FirstName>
+<LastName>Wilson</LastName>
+<Phone>2063309378</Phone>
+<Email>johnleewilson4@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001F0-1520528925</ListID>
+<Name>Johnnette Traill</Name>
+<FirstName>Johnnette</FirstName>
+<LastName>Traill</LastName>
+<Phone>9177978127</Phone>
+<Email>johnnettetraill@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000501-1578491106</ListID>
+<Name>Johnson, Ben</Name>
+<FirstName>Ben</FirstName>
+<LastName>Johnson</LastName>
+<Phone>615-748-0352</Phone>
+<Email>ben@selecthomesolutionsgroup.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004D8-1576006018</ListID>
+<Name>Johnson, Robert</Name>
+<FirstName>Robert</FirstName>
+<LastName>Johnson</LastName>
+<Phone>239-948-3148</Phone>
+<Email>seabskt1984@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000267-1527273337</ListID>
+<Name>Jonathan Medina</Name>
+<FirstName>Jonathan</FirstName>
+<LastName>Medina</LastName>
+<Phone>570-817-6803</Phone>
+<Email>jonathanmedinausa@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001B8-1518030821</ListID>
+<Name>Jonathan Rossi</Name>
+<FirstName>Jonathan</FirstName>
+<LastName>Rossi</LastName>
+<Phone>6159712507</Phone>
+<Email>jon@timberstonetn.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000292-1531773615</ListID>
+<Name>Jordan Kowalczyk</Name>
+<FirstName>Jordan</FirstName>
+<LastName>Kowalczyk</LastName>
+<Phone>716-864-3997</Phone>
+<Email>jordanxy@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000134-1511806696</ListID>
+<Name>Jose Calan</Name>
+<FirstName>Jose</FirstName>
+<LastName>Calan</LastName>
+<Phone>201-655-8020</Phone>
+<Email>calanj04@gamil.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002CE-1536157905</ListID>
+<Name>Joseph Cona</Name>
+<FirstName>Joseph</FirstName>
+<LastName>Cona</LastName>
+<Phone>(315) 868-2208</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000274-1529930046</ListID>
+<Name>Joseph Heilbrun</Name>
+<FirstName>Joseph</FirstName>
+<LastName>Heilbrun</LastName>
+<Phone>845-662-4575</Phone>
+<Email>8457811@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800000A1-1498493423</ListID>
+<Name>Joseph Kubicki</Name>
+<FirstName>Joseph</FirstName>
+<LastName>Kubicki</LastName>
+<Phone>570-852-3112</Phone>
+<Email>jkubicki1464@comcast.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002D8-1537186500</ListID>
+<Name>Joshua Ryan</Name>
+<FirstName>Joshua</FirstName>
+<LastName>Ryan</LastName>
+<Phone>1 907-854-2002</Phone>
+<Email>360alaska@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000280-1530034914</ListID>
+<Name>Joshua Stankiewicz</Name>
+<FirstName>Joshua</FirstName>
+<LastName>Stankiewicz</LastName>
+<Phone>570-396-8625</Phone>
+<Email>feeney15@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001BE-1518199266</ListID>
+<Name>JSHI Construction Inc</Name>
+<FirstName>Jamie</FirstName>
+<LastName>Spindler</LastName>
+<Phone>570-561-5239</Phone>
+<Email>spins02@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000015C-1512756505</ListID>
+<Name>Julio Larralde</Name>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000040D-1557248834</ListID>
+<Name>Jun brothers construction</Name>
+<FirstName>Simon</FirstName>
+<LastName>Lam</LastName>
+<Phone>617-224-6327</Phone>
+<Email>junbrothersconstruction@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000026A-1527600431</ListID>
+<Name>Justin Dozier</Name>
+<FirstName>Justin</FirstName>
+<LastName>Dozier</LastName>
+<Phone>(240) 416-5040</Phone>
+<Email>jdoz84@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000017C-1513867606</ListID>
+<Name>Justin Lear</Name>
+<FirstName>Justin</FirstName>
+<LastName>Lear</LastName>
+<Phone>814-599-5337</Phone>
+<Email>kokomoscalls@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000506-1578685453</ListID>
+<Name>Justin paglianite</Name>
+<FirstName>Justin</FirstName>
+<LastName>paglianite</LastName>
+<Email>jp4w64@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000232-1523880928</ListID>
+<Name>Justin Vogt</Name>
+<FirstName>Justin</FirstName>
+<LastName>Vogt</LastName>
+<Phone>6165509825</Phone>
+<Email>vogtjustin@att.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004EE-1577127370</ListID>
+<Name>Jusufi, Abi</Name>
+<FirstName>Abi</FirstName>
+<LastName>Jusufi</LastName>
+<Phone>646-436-6086</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000497-1569689938</ListID>
+<Name>JWB Property</Name>
+<FirstName>Bradley</FirstName>
+<LastName>Justin</LastName>
+<Phone>570-335-7520</Phone>
+<Email>jwbradley18@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000177-1513706373</ListID>
+<Name>JWB Property Group</Name>
+<FirstName>Justin</FirstName>
+<LastName>Bradley</LastName>
+<Phone>570-335-7520</Phone>
+<Email>jwbpropertygroup@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000496-1569499520</ListID>
+<Name>Farr St</Name>
+<FirstName>Justin</FirstName>
+<LastName>Bradley</LastName>
+<Phone>570-335-7520</Phone>
+<Email>jwbpropertygroup@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000577-1585585677</ListID>
+<Name>Rebecca St</Name>
+<FirstName>Justin</FirstName>
+<LastName>Bradley</LastName>
+<Phone>570-335-7520</Phone>
+<Email>jwbpropertygroup@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003F8-1555959116</ListID>
+<Name>Kaeser, Amber</Name>
+<FirstName>Amber</FirstName>
+<LastName>Kaeser</LastName>
+<Phone>615-479-7837</Phone>
+<Email>amberkaeser@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000458-1563453445</ListID>
+<Name>KAMANI, ANKITKUMAR</Name>
+<FirstName>ANKITKUMAR</FirstName>
+<LastName>KAMANI</LastName>
+<Phone>405-532-0304</Phone>
+<Email>aakamani@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000193-1515507999</ListID>
+<Name>Karen Monaco</Name>
+<FirstName>Karen</FirstName>
+<LastName>Monaco</LastName>
+<Phone>856-719-0655</Phone>
+<Email>dino451@verizon.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000054F-1582565781</ListID>
+<Name>Karr, Brett</Name>
+<FirstName>Brett</FirstName>
+<LastName>Karr</LastName>
+<Phone>813-503-2252</Phone>
+<Email>phimpr@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000025D-1526574705</ListID>
+<Name>Kathleen McLaughlin</Name>
+<FirstName>Kathleen</FirstName>
+<LastName>McLaughlin</LastName>
+<Phone>4433099966</Phone>
+<Email>Kponi3s@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001D6-1519160112</ListID>
+<Name>Kathy Worley</Name>
+<FirstName>Kathy</FirstName>
+<LastName>Worley</LastName>
+<Phone>8282547825</Phone>
+<Email>kdworley2@charter.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000236-1523976195</ListID>
+<Name>Katy Morton</Name>
+<FirstName>Katy</FirstName>
+<LastName>Morton</LastName>
+<Phone>5023966151</Phone>
+<Email>monarchenergies@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000057F-1587076249</ListID>
+<Name>Kazumi, J</Name>
+<FirstName>J</FirstName>
+<LastName>Kazumi</LastName>
+<Phone>305-666-1654</Phone>
+<Email>jaykay323@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003F9-1555960218</ListID>
+<Name>Keckley, Jeffrey</Name>
+<FirstName>Jeffrey</FirstName>
+<LastName>Keckley</LastName>
+<Phone>631-680-3240</Phone>
+<Email>zaco322@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000130-1511377834</ListID>
+<Name>Keith Braverman</Name>
+<FirstName>Keith</FirstName>
+<LastName>Braverman</LastName>
+<Phone>267-679-2744</Phone>
+<Email>beez4321@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003C0-1552602632</ListID>
+<Name>Kelly, Michael</Name>
+<FirstName>Michael</FirstName>
+<LastName>Kelly</LastName>
+<Phone>636-634-6010</Phone>
+<Email>mikel2442@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000151-1512569535</ListID>
+<Name>Ken Churchill</Name>
+<FirstName>Ken</FirstName>
+<LastName>Churchill</LastName>
+<Email>office@silverspringsranch.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000459-1563477950</ListID>
+<Name>Kennedy, Beth</Name>
+<FirstName>Beth</FirstName>
+<LastName>Kennedy</LastName>
+<Phone>732-814-5765</Phone>
+<Email>bethkennedy69@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000041F-1558635925</ListID>
+<Name>Kennedy, James</Name>
+<FirstName>James</FirstName>
+<LastName>Kennedy III</LastName>
+<Phone>570-815-4391</Phone>
+<Email>jamesknnd9@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000420-1558636162</ListID>
+<Name>1720 Penn Ave</Name>
+<FirstName>James</FirstName>
+<LastName>Kennedy III</LastName>
+<Phone>570-815-4391</Phone>
+<Email>jamesknnd9@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000320-1541191354</ListID>
+<Name>Keperling, Matthew</Name>
+<FirstName>Matthew</FirstName>
+<LastName>Keperling</LastName>
+<Phone>513-518-2634</Phone>
+<Email>matt@keperling.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000464-1564404264</ListID>
+<Name>Kerr, Celeste</Name>
+<FirstName>Celeste</FirstName>
+<LastName>Kerr</LastName>
+<Phone>847-226-4569</Phone>
+<Email>celeste_kerr@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000260-1526916414</ListID>
+<Name>Kerry Peluso</Name>
+<FirstName>Kerry</FirstName>
+<LastName>Peluso</LastName>
+<Phone>8509991951</Phone>
+<Email>kerrypeluso@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000215-1522069794</ListID>
+<Name>Keshia Broomes</Name>
+<FirstName>Keshia</FirstName>
+<LastName>Broomes</LastName>
+<Phone>2404917401</Phone>
+<Email>tavianhall@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000039A-1549653339</ListID>
+<Name>Kevin Jo</Name>
+<FirstName>Kevin</FirstName>
+<LastName>Jo</LastName>
+<Phone>570-836-7129</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002AE-1533566860</ListID>
+<Name>Kevin Uren</Name>
+<FirstName>Kevin</FirstName>
+<LastName>Uren</LastName>
+<Phone>570-704-6542</Phone>
+<Email>kevinu141@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003DE-1554125625</ListID>
+<Name>Kickass Cabinets</Name>
+<FirstName>Stephen</FirstName>
+<LastName>Hoover</LastName>
+<Phone>570-313-7869</Phone>
+<Email>steve@waverlycabinets.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000333-1542038387</ListID>
+<Name>Kimberly Healy</Name>
+<FirstName>Kimberly</FirstName>
+<LastName>Healy</LastName>
+<Phone>9789980626</Phone>
+<Email>Kimberlyahealy@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000031C-1540583651</ListID>
+<Name>King, Susan &amp; Kevin</Name>
+<Phone>5706468498</Phone>
+<Email>mhernandez.bhi@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000544-1581630738</ListID>
+<Name>Kinne, Scott</Name>
+<FirstName>Scott</FirstName>
+<LastName>Kinne</LastName>
+<Phone>571-237-6241</Phone>
+<Email>skinne@fhmtg.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000536-1580855026</ListID>
+<Name>Kinney, David</Name>
+<FirstName>David</FirstName>
+<LastName>Kinney</LastName>
+<Phone>973-702-1806</Phone>
+<Email>ffdk320@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000500-1578414984</ListID>
+<Name>Kirk, Jill</Name>
+<FirstName>Jill</FirstName>
+<LastName>Kirk</LastName>
+<Email>macelagant@icloud.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800005BE-1590440767</ListID>
+<Name>Kirkwood Vacations, LLC</Name>
+<FirstName>Karin</FirstName>
+<LastName>Langwasser</LastName>
+<Phone>909-931-9080</Phone>
+<Email>klangwasser@langwasser.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004E9-1576692320</ListID>
+<Name>Kirkwood, Sara</Name>
+<FirstName>Sara</FirstName>
+<LastName>Kirkwood</LastName>
+<Phone>860-614-0880</Phone>
+<Email>sskirkwood@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004EA-1576692620</ListID>
+<Name>Kirkwood, Sarah</Name>
+<FirstName>Sara</FirstName>
+<LastName>Kirkwood</LastName>
+<Phone>860-614-0880</Phone>
+<Email>sskirkwood@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003EF-1555337760</ListID>
+<Name>Knaack, Thomas</Name>
+<FirstName>Thomas</FirstName>
+<LastName>Knaack</LastName>
+<Phone>224-627-8617</Phone>
+<Email>tkdoubleeagle@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000057B-1586794522</ListID>
+<Name>Kody Gregory</Name>
+<FirstName>Kody</FirstName>
+<LastName>Gregory</LastName>
+<Phone>607-742-2800</Phone>
+<Email>kody.gregory11@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000566-1583504926</ListID>
+<Name>Kolb, Andrew</Name>
+<FirstName>Andrew</FirstName>
+<LastName>Kolb</LastName>
+<Phone>315-527-6699</Phone>
+<Email>andrew.kolb22@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003D8-1553865521</ListID>
+<Name>Kong, Shawn</Name>
+<FirstName>Shawn</FirstName>
+<LastName>Kong</LastName>
+<Phone>860-982-7082</Phone>
+<Email>skong1024@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000041-1458220030</ListID>
+<Name>Kopacz, John and Jenny</Name>
+<Phone>570-855-2806</Phone>
+<Email>jkopacz@epix.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003C7-1553089996</ListID>
+<Name>Kosmatka, Robert</Name>
+<FirstName>Robert</FirstName>
+<LastName>Kosmatka</LastName>
+<Phone>614-216-7057</Phone>
+<Email>Tyorke77@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000594-1589278864</ListID>
+<Name>Kostiuk, Tetiana</Name>
+<FirstName>Tetiana</FirstName>
+<LastName>Kostiuk</LastName>
+<Phone>315-807-5918</Phone>
+<Email>tetiana75kostiuk@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000045F-1563801917</ListID>
+<Name>Krauth, Coulette</Name>
+<FirstName>Coulette</FirstName>
+<LastName>Krauth</LastName>
+<Phone>570-335-4271</Phone>
+<Email>coulette.krauth@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000021E-1522846238</ListID>
+<Name>Kristine Zuber</Name>
+<FirstName>Kristine</FirstName>
+<LastName>Zuber</LastName>
+<Phone>6073413765</Phone>
+<Email>mathisfun17@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003BE-1552568056</ListID>
+<Name>Kukurelo</Name>
+<FirstName>Luis</FirstName>
+<LastName>Kukurelo</LastName>
+<Email>peruex@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000471-1565357564</ListID>
+<Name>Kumar, Anil</Name>
+<FirstName>Anil</FirstName>
+<LastName>Kumar</LastName>
+<Phone>732-616-5595</Phone>
+<Email>anil.kumar1974@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000390-1549030670</ListID>
+<Name>Kurco Construction</Name>
+<FirstName>Kurt</FirstName>
+<LastName>Hansen</LastName>
+<Phone>9897210623</Phone>
+<Email>kurcosbarn1964@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800005B2-1590168868</ListID>
+<Name>Ladlow, Ricky</Name>
+<FirstName>Ricky</FirstName>
+<LastName>Ladlow</LastName>
+<Phone>800-922-1103</Phone>
+<Email>dorian@majoris.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003FC-1556043552</ListID>
+<Name>Lakatos, Creig</Name>
+<FirstName>Creig</FirstName>
+<LastName>Lakatos</LastName>
+<Phone>702-274-6339</Phone>
+<Email>creighunts@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004E0-1576250280</ListID>
+<Name>Lake, Alexandra</Name>
+<FirstName>Alexandra</FirstName>
+<LastName>Lake</LastName>
+<Phone>862-888-6202</Phone>
+<Email>lakefuentes12@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000046D-1565009517</ListID>
+<Name>Lamb, Stephen</Name>
+<FirstName>Stephen</FirstName>
+<LastName>Lamb</LastName>
+<Phone>361-648-3895</Phone>
+<Email>rklamb1979@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003B7-1551977573</ListID>
+<Name>Lambert, Gary</Name>
+<FirstName>Gary</FirstName>
+<LastName>Lambert</LastName>
+<Phone>478-986-9521</Phone>
+<Email>gary_50_1999@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000058A-1587989528</ListID>
+<Name>Laura Dumback</Name>
+<FirstName>Laura</FirstName>
+<LastName>Dumback</LastName>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000010C-1507898344</ListID>
+<Name>Laurentiu Miron</Name>
+<FirstName>Laurentiu</FirstName>
+<LastName>Miron</LastName>
+<Phone>713-498-0348</Phone>
+<Email>laurentiumiron@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000028C-1531320437</ListID>
+<Name>Laware, Diane</Name>
+<FirstName>Diane</FirstName>
+<LastName>Laware</LastName>
+<Phone>570-937-9054</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000242-1525092645</ListID>
+<Name>Leah Peterson</Name>
+<FirstName>Leah</FirstName>
+<LastName>Peterson</LastName>
+<Phone>9177516908</Phone>
+<Email>leahphoto@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000591-1588895584</ListID>
+<Name>Lechene, Patrick</Name>
+<FirstName>Patrick</FirstName>
+<LastName>Lechene</LastName>
+<Phone>814-247-8363</Phone>
+<Email>lechenes@verizon.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000385-1548187848</ListID>
+<Name>Lee, James</Name>
+<FirstName>James</FirstName>
+<LastName>Lee</LastName>
+<Phone>6176052461</Phone>
+<Email>jrl.biz@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000199-1515781995</ListID>
+<Name>Linda George</Name>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000011F-1509975195</ListID>
+<Name>Linda Montville</Name>
+<FirstName>Linda</FirstName>
+<LastName>Montville</LastName>
+<Phone>570-466-6398</Phone>
+<Email>lmontville@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001FF-1521052222</ListID>
+<Name>Linda Romeike</Name>
+<FirstName>Linda</FirstName>
+<LastName>Romeike</LastName>
+<Phone>949-235-1275</Phone>
+<Email>lromeike@me.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002C4-1535559976</ListID>
+<Name>Linda Romeike (G-I</Name>
+<Phone>949-235-1275</Phone>
+<Email>lromeike@me.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000040E-1557250871</ListID>
+<Name>Lingner, Robert</Name>
+<FirstName>Robert</FirstName>
+<LastName>Lingner</LastName>
+<Phone>516-983-9655</Phone>
+<Email>rlingner@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000192-1515506614</ListID>
+<Name>Lisa Brown</Name>
+<FirstName>Lisa</FirstName>
+<LastName>Brown</LastName>
+<Phone>8146884719</Phone>
+<Email>lisab866@atlanticbb.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002CB-1536063167</ListID>
+<Name>Lisa E Smith</Name>
+<FirstName>Lisa E</FirstName>
+<LastName>Smith</LastName>
+<Phone>5855545271</Phone>
+<Email>worboys28@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001C8-1518531192</ListID>
+<Name>Lisa Foley</Name>
+<FirstName>Lisa</FirstName>
+<LastName>Foley</LastName>
+<Phone>603-562-5199</Phone>
+<Email>lmfoley12@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000356-1544046133</ListID>
+<Name>Livers, Tammi</Name>
+<FirstName>Tammi</FirstName>
+<LastName>Livers</LastName>
+<Phone>314-319-5952</Phone>
+<Email>tammilivers@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800000F1-1505997639</ListID>
+<Name>Ljubisa Stevanovic</Name>
+<FirstName>Ljubisa</FirstName>
+<LastName>Stevanovic</LastName>
+<Phone>5186056436</Phone>
+<Email>ljstevano@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000024B-1525705790</ListID>
+<Name>Lliguichuzhca, Rocio A</Name>
+<FirstName>Rocio</FirstName>
+<LastName>Lliguichuzhca</LastName>
+<Phone>646 784-9831</Phone>
+<Email>manuelguallpa@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000047A-1566246072</ListID>
+<Name>LoBrace, Joseph</Name>
+<FirstName>Joseph</FirstName>
+<LastName>LoBrace</LastName>
+<Phone>908-472-0801</Phone>
+<Email>jlobrace23@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003A5-1550151478</ListID>
+<Name>Long-Nelson, Alishka</Name>
+<FirstName>Alishka</FirstName>
+<LastName>Long-Nelson</LastName>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000042A-1559305108</ListID>
+<Name>Loretto Elementary</Name>
+<FirstName>Amelia</FirstName>
+<LastName>Brunner</LastName>
+<Phone>904-268-8863</Phone>
+<Email>aclbrunner@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000030E-1539617054</ListID>
+<Name>Lori Jones</Name>
+<FirstName>Lori</FirstName>
+<LastName>Jones</LastName>
+<Phone>17074864271</Phone>
+<Email>ljones530@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000549-1582311298</ListID>
+<Name>Lori Wolfe</Name>
+<FirstName>Lori</FirstName>
+<LastName>Wolfe</LastName>
+<Phone>570-256-0954</Phone>
+<Email>dlnwolfe@epix.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000128-1510605258</ListID>
+<Name>Lou Norella</Name>
+<FirstName>Lou</FirstName>
+<LastName>Norella</LastName>
+<Phone>570-510-2974</Phone>
+<Email>lnorella@mail.comg</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800000E4-1505137281</ListID>
+<Name>Lou Stevanovic</Name>
+<FirstName>Lou</FirstName>
+<LastName>Stevonovic</LastName>
+<Phone>5186056436</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004DD-1576085207</ListID>
+<Name>Lou, Jing</Name>
+<FirstName>Jing</FirstName>
+<LastName>Lou</LastName>
+<Phone>727-641-7916</Phone>
+<Email>jlou82@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001CE-1518886966</ListID>
+<Name>Louis Giomboni</Name>
+<FirstName>Louis</FirstName>
+<LastName>Giomboni</LastName>
+<Phone>570-510-7817</Phone>
+<Email>jimboyz250@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004FF-1578410105</ListID>
+<Name>Lovejoy, Kevin</Name>
+<FirstName>Kevin</FirstName>
+<LastName>Lovejoy</LastName>
+<Phone>631-940-7729</Phone>
+<Email>klov@mystictek.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000034F-1543703514</ListID>
+<Name>Loveland, Clifford</Name>
+<FirstName>Clifford</FirstName>
+<LastName>Loveland</LastName>
+<Phone>248-392-1186</Phone>
+<Email>cploveland@msn.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800000ED-1505827860</ListID>
+<Name>Ludlow</Name>
+<Email>Teresa_Ludlow@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800000EF-1505830426</ListID>
+<Name>Ludlow Stafford Ave. 1st Floor</Name>
+</CustomerRet>
+<CustomerRet>
+<ListID>800000EE-1505828125</ListID>
+<Name>Ludlow Stafford Ave. 2nd Floor</Name>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000012A-1511018185</ListID>
+<Name>Luis Morales</Name>
+<FirstName>Luis</FirstName>
+<LastName>Morales</LastName>
+<Phone>+16174558351</Phone>
+<Email>luelucky@ymail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000521-1579706192</ListID>
+<Name>lyben, gary</Name>
+<FirstName>gary</FirstName>
+<LastName>lyben</LastName>
+<Phone>181-024-1387</Phone>
+<Email>gary@abeo-designs.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004DA-1576070288</ListID>
+<Name>Macejka, Todd</Name>
+<FirstName>Todd</FirstName>
+<LastName>Macejka</LastName>
+<Phone>518-369-6620</Phone>
+<Email>tmacejka@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004BA-1573131195</ListID>
+<Name>Macomber, Tom</Name>
+<FirstName>Tom</FirstName>
+<LastName>Macomber</LastName>
+<Phone>602-421-6589</Phone>
+<Email>tandsmacomber@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000241-1524853053</ListID>
+<Name>Main &amp; Ross Street Properties, LLC</Name>
+<FirstName>Sam</FirstName>
+<LastName>Johnson</LastName>
+<Phone>201-315-2210</Phone>
+<Email>samjohnsonpa@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000520-1579629857</ListID>
+<Name>Maine, Canute</Name>
+<Phone>347-249-8773</Phone>
+<Email>nox-cg@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800005BF-1590440768</ListID>
+<Name>Majerle, Tucker</Name>
+<FirstName>Tucker</FirstName>
+<LastName>Majerle</LastName>
+<Phone>2184043897</Phone>
+<Email>tuckmar31@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800005BA-1590433004</ListID>
+<Name>Manning, Jay</Name>
+<FirstName>Jay</FirstName>
+<LastName>Manning</LastName>
+<Phone>5592845315</Phone>
+<Email>jd@stephaniemanning.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001FE-1521034013</ListID>
+<Name>Marina Curbelo</Name>
+<FirstName>Marina</FirstName>
+<LastName>Curbelo</LastName>
+<Phone>4132099753</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002D7-1537186269</ListID>
+<Name>Mario Delgado</Name>
+<FirstName>Mario</FirstName>
+<LastName>Delgado</LastName>
+<Phone>703-598-0144</Phone>
+<Email>delgado1398@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000227-1523452233</ListID>
+<Name>Mark Bellizia</Name>
+<Phone>570-233-7463</Phone>
+<Email>mbelliziacontracting@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000012D-1511208822</ListID>
+<Name>Mark Peretore</Name>
+<FirstName>Mark</FirstName>
+<LastName>Peretore</LastName>
+<Phone>607-972-9931</Phone>
+<Email>peretore@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000305-1538657153</ListID>
+<Name>Marla Muha</Name>
+<FirstName>Marla</FirstName>
+<LastName>Muha</LastName>
+<Phone>410-302-6260</Phone>
+<Email>muha.marla@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800000EC-1505506201</ListID>
+<Name>Marsha Thomas</Name>
+<FirstName>Marsha</FirstName>
+<LastName>Thomas</LastName>
+<Phone>570-249-4093</Phone>
+<Email>mthomas@highwood-usa.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800005C0-1590440769</ListID>
+<Name>Martin, Scott</Name>
+<FirstName>Scott</FirstName>
+<LastName>Martin</LastName>
+<Phone>7165316923</Phone>
+<Email>Rachelbean2@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000011A-1508963562</ListID>
+<Name>Marty Snyder</Name>
+<FirstName>Marty &amp; Cindy</FirstName>
+<LastName>Snyder</LastName>
+<Phone>570-954-4923</Phone>
+<Email>martybowl@comcast.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000514-1579093186</ListID>
+<Name>Masino, Rita</Name>
+<FirstName>Rita</FirstName>
+<LastName>Masino</LastName>
+<Phone>201-637-7910</Phone>
+<Email>ritmarie@icloud.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000011C-1509033628</ListID>
+<Name>Matt Bull</Name>
+<FirstName>Matt</FirstName>
+<LastName>Bull</LastName>
+<Phone>603-630-8622</Phone>
+<Email>rmplatinumconstruction@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002AD-1533301584</ListID>
+<Name>Matt Schwartz</Name>
+<FirstName>Matt</FirstName>
+<LastName>Schwartz</LastName>
+<Email>LMSchwartz@Berkshire.rr.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800000F3-1506439285</ListID>
+<Name>Matt Spangenberg</Name>
+<FirstName>Matt</FirstName>
+<LastName>Spangenberg</LastName>
+<Phone>6105338727</Phone>
+<Email>contractorsolution@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001E2-1519679134</ListID>
+<Name>Matt Weaver</Name>
+<FirstName>Matt</FirstName>
+<LastName>Weaver</LastName>
+<Phone>7402620243</Phone>
+<Email>m.weaver.eng@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000020D-1521734813</ListID>
+<Name>Matthew Hay</Name>
+<FirstName>Matthew</FirstName>
+<LastName>Hay</LastName>
+<Email>Bowlamat@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001CB-1518615577</ListID>
+<Name>Matthew O&apos;Leary</Name>
+<FirstName>Matthew</FirstName>
+<LastName>O&apos;Leary</LastName>
+<Phone>4127355315</Phone>
+<Email>olearymj@upmc.edu</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000311-1539964099</ListID>
+<Name>Maureen Carothers</Name>
+<FirstName>Maureen</FirstName>
+<LastName>Carothers</LastName>
+<Phone>+19175871498</Phone>
+<Email>maureencarothers@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003FD-1556043570</ListID>
+<Name>may, michael</Name>
+<FirstName>michael</FirstName>
+<LastName>may</LastName>
+<Phone>315-790-0286</Phone>
+<Email>Maymail610@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000443-1561738323</ListID>
+<Name>McCarthy, Nathan</Name>
+<FirstName>Nathan</FirstName>
+<LastName>McCarthy</LastName>
+<Phone>603-391-1428</Phone>
+<Email>natekmccarthy@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000404-1556734383</ListID>
+<Name>McClure, Monique</Name>
+<FirstName>Monique</FirstName>
+<LastName>McClure</LastName>
+<Phone>917-523-3911</Phone>
+<Email>monique_mcclure_82@outlook.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000408-1556909048</ListID>
+<Name>McClure, Monqiue</Name>
+<FirstName>Monqiue</FirstName>
+<LastName>McClure</LastName>
+<Phone>917-523-3911</Phone>
+<Email>monique_mcclure_82@outlook.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000038D-1548706480</ListID>
+<Name>McCullough, Gregory</Name>
+<FirstName>Gregory</FirstName>
+<LastName>McCullough</LastName>
+<Phone>201-615-0954</Phone>
+<Email>gregblbr@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000561-1583260398</ListID>
+<Name>Mcdonough, Paul</Name>
+<FirstName>Paul</FirstName>
+<LastName>Mcdonough</LastName>
+<Phone>607-221-1040</Phone>
+<Email>pmcdonough6@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000507-1578749861</ListID>
+<Name>McGuire, Patrick</Name>
+<FirstName>Patrick</FirstName>
+<LastName>McGuire</LastName>
+<Phone>157-078-0559</Phone>
+<Email>pmcguire7486@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000342-1542719193</ListID>
+<Name>McNeill, Dillon</Name>
+<FirstName>Dillon</FirstName>
+<LastName>McNeill</LastName>
+<Phone>407-242-9159</Phone>
+<Email>vtanenb@g.clemson.edu</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003D3-1553724965</ListID>
+<Name>McNitt, Ramona</Name>
+<FirstName>Ramona</FirstName>
+<LastName>McNitt</LastName>
+<Phone>315-420-4661</Phone>
+<Email>eagle6mm@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000477-1565898812</ListID>
+<Name>Meeler woodworks</Name>
+<FirstName>Josh</FirstName>
+<LastName>Meeler</LastName>
+<Phone>7044029352</Phone>
+<Email>meelerjosh@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001B9-1518030823</ListID>
+<Name>Megan Augustin</Name>
+<FirstName>Megan</FirstName>
+<LastName>Augustin</LastName>
+<Phone>12153500464</Phone>
+<Email>megaugust3@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000331-1541871855</ListID>
+<Name>Melissa Dietrich</Name>
+<FirstName>Melissa</FirstName>
+<LastName>Dietrich</LastName>
+<Phone>610-914-5839</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000054E-1582565184</ListID>
+<Name>Mertz, Eric</Name>
+<FirstName>Eric</FirstName>
+<LastName>Mertz</LastName>
+<Phone>570-490-4300</Phone>
+<Email>erik.mertz@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000030D-1539445463</ListID>
+<Name>Mian Saladeen</Name>
+<FirstName>Mian</FirstName>
+<LastName>Saladeen</LastName>
+<Phone>5852012000</Phone>
+<Email>mian.saladeen@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800000FC-1507134532</ListID>
+<Name>Michael Drew</Name>
+<FirstName>Michael</FirstName>
+<LastName>Drew</LastName>
+<Phone>5089518657</Phone>
+<Email>mdrew_1@verizon.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002C5-1535560041</ListID>
+<Name>Michael Mascal (K-S)</Name>
+<Phone>570-591-8739</Phone>
+<Email>mmaskal1973@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000029E-1532615884</ListID>
+<Name>Michael Maskal</Name>
+<FirstName>Michael</FirstName>
+<LastName>Maskal</LastName>
+<Phone>570-591-8739</Phone>
+<Email>mmslove39@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000034D-1543522205</ListID>
+<Name>Michael Smith</Name>
+<FirstName>Michael</FirstName>
+<LastName>Smith</LastName>
+<Phone>5172904572</Phone>
+<Email>dirt4dive@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000259-1526405987</ListID>
+<Name>Michelle Brick</Name>
+<FirstName>Michelle</FirstName>
+<LastName>Brick</LastName>
+<Phone>9084991759</Phone>
+<Email>michellebrickmusic@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000044D-1562596730</ListID>
+<Name>MICHELLE, APHOLZ</Name>
+<FirstName>APHOLZ</FirstName>
+<LastName>MICHELLE</LastName>
+<Phone>570-263-0748</Phone>
+<Email>MADREAMSFLORIDA@GMAIL.COM</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003FF-1556221845</ListID>
+<Name>Mid Penn Home Improvements</Name>
+<FirstName>Troy</FirstName>
+<LastName>Mattis</LastName>
+<Phone>717-621-7007</Phone>
+<Email>tkmattisrealestate@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000442-1561734502</ListID>
+<Name>MIke Gardner</Name>
+<FirstName>Mike</FirstName>
+<LastName>Gardner</LastName>
+<Phone>717-752-7082</Phone>
+<Email>maepf@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002D0-1536184493</ListID>
+<Name>Mike Pisanski</Name>
+<FirstName>Mike</FirstName>
+<LastName>Pisanski</LastName>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000303-1538587299</ListID>
+<Name>Mike Vazquez</Name>
+<FirstName>Mike</FirstName>
+<LastName>Vazquez</LastName>
+<Phone>570-587-4965</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003E1-1554395253</ListID>
+<Name>Mills Painting and Remodeling</Name>
+<FirstName>Brian</FirstName>
+<LastName>Mills</LastName>
+<Phone>401-837-4430</Phone>
+<Email>bmills1109@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004AC-1571759279</ListID>
+<Name>Miryala, Rama</Name>
+<FirstName>Rama</FirstName>
+<LastName>Miryala</LastName>
+<Email>MRAM111@YAHOO.COM</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000472-1565371831</ListID>
+<Name>Mitchell, Margie</Name>
+<FirstName>Margie</FirstName>
+<LastName>Mitchell</LastName>
+<Phone>985-665-9118</Phone>
+<Email>waltermargie@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003A8-1550236793</ListID>
+<Name>Mohn, Jeffrey</Name>
+<FirstName>Jeffrey</FirstName>
+<LastName>Mohn</LastName>
+<Phone>570-905-5484</Phone>
+<Email>jeffmohn@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003E6-1554815452</ListID>
+<Name>Molinaro, Sara</Name>
+<FirstName>Sara</FirstName>
+<LastName>Molinaro</LastName>
+<Phone>410-493-4493</Phone>
+<Email>sbmolinaro@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000540-1581455678</ListID>
+<Name>Mon and Jeffs Kitchen</Name>
+<FirstName>Jeff</FirstName>
+<LastName>Gangell</LastName>
+<Phone>518-339-0114</Phone>
+<Email>Anterika17@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000182-1514581756</ListID>
+<Name>Mona McQueen-Dickerson</Name>
+<FirstName>Mona</FirstName>
+<LastName>McQueen-Dickerson</LastName>
+<Phone>617-908-5049</Phone>
+<Email>Monet02124@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000033B-1542385397</ListID>
+<Name>Monica Lopez</Name>
+<FirstName>Monica</FirstName>
+<LastName>Lopez</LastName>
+<Email>moniklo557@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002E5-1537553860</ListID>
+<Name>Monsey</Name>
+<Email>Teresa_Ludlow@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000569-1583759481</ListID>
+<Name>Moore, Jeff</Name>
+<FirstName>Jeff</FirstName>
+<LastName>Moore</LastName>
+<Phone>304-417-7180</Phone>
+<Email>jdmoore2354@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004D4-1575656548</ListID>
+<Name>Moore, Jeffery</Name>
+<FirstName>Jeffery</FirstName>
+<LastName>Moore</LastName>
+<Phone>304-417-7180</Phone>
+<Email>jdmoore2354@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003B1-1551301858</ListID>
+<Name>Moore, Sherry.</Name>
+<Phone>570-430-4396</Phone>
+<Email>sherrymoore215@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000033C-1542390839</ListID>
+<Name>Morgan Eli</Name>
+<FirstName>Morgan</FirstName>
+<LastName>Eli</LastName>
+<Phone>856-522-3239</Phone>
+<Email>morgandlove@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800005C1-1590440771</ListID>
+<Name>Morrison, Adam</Name>
+<FirstName>Adam</FirstName>
+<LastName>Morrison</LastName>
+<Phone>5133932297</Phone>
+<Email>morrison.emgllc@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003E0-1554293816</ListID>
+<Name>Moschello, Robert</Name>
+<FirstName>Robert</FirstName>
+<LastName>Moschello</LastName>
+<Phone>631-682-9439</Phone>
+<Email>rmoschello26@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000035A-1544541161</ListID>
+<Name>Murphy, Donald</Name>
+<FirstName>Donald</FirstName>
+<LastName>Murphy</LastName>
+<Phone>7164321402</Phone>
+<Email>don42157@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000044F-1562763055</ListID>
+<Name>Murphy, Gina</Name>
+<FirstName>Gina</FirstName>
+<LastName>Murphy</LastName>
+<Phone>912-713-1406</Phone>
+<Email>murphgi1@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000220-1523277334</ListID>
+<Name>Myra Winchester</Name>
+<FirstName>Myra</FirstName>
+<LastName>Winchester</LastName>
+<Phone>704-517-9449</Phone>
+<Email>mswchester@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000163-1512766164</ListID>
+<Name>Narvarro</Name>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000316-1540301718</ListID>
+<Name>Natale Napoleone</Name>
+<FirstName>Natale</FirstName>
+<LastName>Napoleone</LastName>
+<Phone>631-241-8567</Phone>
+<Email>nat4214@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002A7-1533140142</ListID>
+<Name>Nathaniel Fenson</Name>
+<FirstName>Nathaniel</FirstName>
+<LastName>Fenson</LastName>
+<Phone>571-328-1337</Phone>
+<Email>natefenson@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002DD-1537288436</ListID>
+<Name>Nazar, Marty and Kathy</Name>
+<FirstName>Marty and Kathy</FirstName>
+<LastName>Nazar</LastName>
+<Phone>570-510-1270</Phone>
+<Email>nazdiesel@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000047C-1566319430</ListID>
+<Name>Newby, Jennifer</Name>
+<FirstName>Jennifer</FirstName>
+<LastName>Newby</LastName>
+<Phone>484-432-9791</Phone>
+<Email>info@vacationthepoconos.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000238-1524166032</ListID>
+<Name>Nicholas &amp; Mary Lawlor</Name>
+<Phone>570 470-4116</Phone>
+<Email>nicklawlor09@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002D4-1536868497</ListID>
+<Name>Nicholas Dodge</Name>
+<FirstName>Nicholas</FirstName>
+<LastName>Dodge</LastName>
+<Phone>315-725-7230</Phone>
+<Email>melanie.e.cook@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000543-1581613211</ListID>
+<Name>Nicholas, Carly</Name>
+<FirstName>Carly</FirstName>
+<LastName>Nicholas</LastName>
+<Phone>215-738-6488</Phone>
+<Email>carlyenicholas@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000034B-1543327613</ListID>
+<Name>Nickandr Jamangaraev</Name>
+<FirstName>Nickandr</FirstName>
+<LastName>Jamangaraev</LastName>
+<Phone>7169094429</Phone>
+<Email>nickandrrealtor@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000201-1521143915</ListID>
+<Name>Nicole Sparra</Name>
+<FirstName>Nicole</FirstName>
+<LastName>Sparra</LastName>
+<Phone>267-254-2703</Phone>
+<Email>nsparra@definedsource.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000029C-1532441990</ListID>
+<Name>Ninassi, Laurie</Name>
+<FirstName>Laurie</FirstName>
+<LastName>Ninassi</LastName>
+<Phone>570-655-7359</Phone>
+<Email>laninassi@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000365-1545333572</ListID>
+<Name>Noa, Liyeni</Name>
+<FirstName>Liyeni</FirstName>
+<LastName>Noa</LastName>
+<Phone>305-502-4386</Phone>
+<Email>liyeninoa@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000031F-1540933527</ListID>
+<Name>Noldy, Brock and Harmony</Name>
+<FirstName>Brock and Harmony</FirstName>
+<LastName>Noldy</LastName>
+<Phone>570-536-5064</Phone>
+<Email>mokaatpsu@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800005B5-1590173432</ListID>
+<Name>Nomad Corp.</Name>
+<FirstName>Samuel</FirstName>
+<LastName>Cottiguar</LastName>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000517-1579182692</ListID>
+<Name>Nordstrom, Steve</Name>
+<FirstName>Steve</FirstName>
+<LastName>Nordstrom</LastName>
+<Phone>413-222-7653</Phone>
+<Email>stevenordstrom90@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004C2-1574116167</ListID>
+<Name>Norma Henness</Name>
+<FirstName>Norma</FirstName>
+<LastName>Henness</LastName>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000027A-1529943233</ListID>
+<Name>Norman Dufresne</Name>
+<FirstName>Norman</FirstName>
+<LastName>Defunse</LastName>
+<Phone>239-707-3013</Phone>
+<Email>milesfamily4@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001D0-1519051251</ListID>
+<Name>Numedia</Name>
+<FirstName>Tim and Karen</FirstName>
+<LastName>Brusie</LastName>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004B4-1572617636</ListID>
+<Name>Oressey, Joseph</Name>
+<FirstName>Joseph</FirstName>
+<LastName>Oressey</LastName>
+<Phone>570-499-1222</Phone>
+<Email>joressey570@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000036B-1546274043</ListID>
+<Name>Overton-Morgan, Oliver</Name>
+<FirstName>Oliver</FirstName>
+<LastName>Overton-Morgan</LastName>
+<Phone>407-802-7585</Phone>
+<Email>broker@morganpropertysolutions.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004B8-1573050861</ListID>
+<Name>Oz Realty</Name>
+<FirstName>Matt</FirstName>
+<LastName>Orr</LastName>
+<Phone>570-575-1675</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004B9-1573051594</ListID>
+<Name>Jackson St</Name>
+<FirstName>Matt</FirstName>
+<LastName>Orr</LastName>
+<Phone>570-575-1675</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004CC-1574718893</ListID>
+<Name>Ozack, Dave</Name>
+<FirstName>Ozack</FirstName>
+<LastName>Dave</LastName>
+<Phone>570-299-0094</Phone>
+<Email>dankd011285@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000214-1522068767</ListID>
+<Name>Packer Ave</Name>
+<FirstName>John</FirstName>
+<LastName>Estock</LastName>
+<Phone>570-760-2045</Phone>
+<Email>estockconstruction@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000399-1549553373</ListID>
+<Name>Pagano, Alexander</Name>
+<FirstName>Alexander</FirstName>
+<LastName>Pagano</LastName>
+<Phone>2013172588</Phone>
+<Email>alapander@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000048F-1568732773</ListID>
+<Name>Paint Trim &amp; More</Name>
+<FirstName>Amy</FirstName>
+<LastName>Aldrich</LastName>
+<Phone>517-474-6991</Phone>
+<Email>amy.aldrich@live.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000585-1587688009</ListID>
+<Name>Palacheck, Deborah</Name>
+<FirstName>Deborah</FirstName>
+<LastName>Palacheck</LastName>
+<Phone>808-561-875?</Phone>
+<Email>deb525nov1@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000403-1556543457</ListID>
+<Name>Panunzio, Ronald</Name>
+<FirstName>Ronald</FirstName>
+<LastName>Panunzio</LastName>
+<Phone>570-489-8175</Phone>
+<Email>pronzo62@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000108-1507641891</ListID>
+<Name>Paola Camilo</Name>
+<FirstName>Paola</FirstName>
+<LastName>Camilo</LastName>
+<Phone>973-930-5278</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000567-1583505062</ListID>
+<Name>Paolella Brothers LLC</Name>
+<FirstName>Kyle</FirstName>
+<LastName>Paolella</LastName>
+<Phone>203-535-6225</Phone>
+<Email>kylepaolella@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000040A-1557148883</ListID>
+<Name>Park, Won Shil</Name>
+<FirstName>Won Shil</FirstName>
+<LastName>Park</LastName>
+<Phone>571-375-5588</Phone>
+<Email>laurenwpark@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000412-1557865486</ListID>
+<Name>PARKS, LORI-ANN</Name>
+<FirstName>LORI-ANN</FirstName>
+<LastName>PARKS</LastName>
+<Phone>607-372-7222</Phone>
+<Email>parks01@frontiernet.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000132-1511533498</ListID>
+<Name>Pat and Michelle Hogan</Name>
+<FirstName>Pat and Michelle</FirstName>
+<LastName>Hogan</LastName>
+<Phone>570-760-5824</Phone>
+<Email>avptransport@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004D7-1575925887</ListID>
+<Name>Patio Sales</Name>
+<FirstName>Gerald</FirstName>
+<LastName>Johnston</LastName>
+<Phone>814-648-0114</Phone>
+<Email>4006jj@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000255-1526059557</ListID>
+<Name>Patricia Piza</Name>
+<FirstName>Patricia</FirstName>
+<LastName>Piza</LastName>
+<Phone>201-463-6291</Phone>
+<Email>ppiza@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800000F0-1505846659</ListID>
+<Name>Patrick &amp; Audrey Dileo</Name>
+<FirstName>Patrick &amp; Audrey</FirstName>
+<LastName>Dileo</LastName>
+<Phone>570-592-7812</Phone>
+<Email>patdileo112@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000053C-1581008851</ListID>
+<Name>Paul Davis Restoration (Baton Rouge)</Name>
+<FirstName>Justin</FirstName>
+<LastName>Woods</LastName>
+<Email>justin.woods@pauldavis.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003B3-1551373662</ListID>
+<Name>Paul Davis Restoration (Warrendale)</Name>
+<FirstName>Paul</FirstName>
+<LastName>Davis</LastName>
+<Phone>724-799-8290</Phone>
+<Email>colleen.bach@pauldavis.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001E0-1519677320</ListID>
+<Name>Paul Gasiorowski</Name>
+<FirstName>Paul</FirstName>
+<LastName>Gasiorowski</LastName>
+<Phone>248-408-3847</Phone>
+<Email>pauljgasiorowski@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000147-1512496103</ListID>
+<Name>Paul Krzywicki</Name>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000361-1545141922</ListID>
+<Name>Pauline Sasser</Name>
+<FirstName>Pauline</FirstName>
+<LastName>Sasser</LastName>
+<Email>dyerknight@amil.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003DA-1553884221</ListID>
+<Name>Payne, Chris</Name>
+<FirstName>Chris</FirstName>
+<LastName>Payne</LastName>
+<Phone>607-237-8823</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000056D-1583965361</ListID>
+<Name>PDM Estates, LLC</Name>
+<FirstName>Vittorio</FirstName>
+<LastName>Pascarella</LastName>
+<Phone>315-457-1305</Phone>
+<Email>vittorio@pdm-llc.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000051C-1579273884</ListID>
+<Name>PDM Estates, LLC.</Name>
+<FirstName>Vittorio</FirstName>
+<LastName>Pascarella</LastName>
+<Phone>315-457-1305</Phone>
+<Email>Billing@pdm-llc.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000038B-1548685966</ListID>
+<Name>Pearl, David</Name>
+<FirstName>David</FirstName>
+<LastName>Pearl</LastName>
+<Phone>774-245-8461</Phone>
+<Email>davidfpearl@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000465-1564406100</ListID>
+<Name>Pepper&apos;s Masonry</Name>
+<FirstName>Dylan</FirstName>
+<LastName>Pepper</LastName>
+<Phone>570-529-1224</Phone>
+<Email>pepper91830@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000049F-1570542345</ListID>
+<Name>Perfect Storm Renovations</Name>
+<FirstName>Paul</FirstName>
+<LastName>Williams</LastName>
+<Phone>570-899-8710</Phone>
+<Email>perfectstormrenovations@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000565-1583443138</ListID>
+<Name>Sulkoski</Name>
+<FirstName>Paul</FirstName>
+<LastName>Williams</LastName>
+<Phone>570-899-8710</Phone>
+<Email>perfectstormrenovations@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004ED-1577110255</ListID>
+<Name>Perkins, Edward</Name>
+<FirstName>Edward</FirstName>
+<LastName>Perkins</LastName>
+<Phone>315-783-8238</Phone>
+<Email>edo22063@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000021A-1522265960</ListID>
+<Name>Peter Kassab</Name>
+<FirstName>Peter</FirstName>
+<LastName>Kassab</LastName>
+<Phone>248-514-2237</Phone>
+<Email>petekt@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004C8-1574365530</ListID>
+<Name>Peter, Ifka</Name>
+<FirstName>Ifka</FirstName>
+<LastName>Peter</LastName>
+<Phone>239-464-4837</Phone>
+<Email>fixedgearpetr@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000035D-1544736360</ListID>
+<Name>Peterson, Eva</Name>
+<FirstName>Eva</FirstName>
+<LastName>Peterson</LastName>
+<Phone>803-328-5646</Phone>
+<Email>efawstorage@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000568-1583530048</ListID>
+<Name>Petrova, Branimira</Name>
+<FirstName>Branimira</FirstName>
+<LastName>Petrova</LastName>
+<Phone>267-567-7493</Phone>
+<Email>branimira6may@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000004B-1458572380</ListID>
+<Name>Phil Daniels</Name>
+<Phone>570-417-2693</Phone>
+<Email>factoryphil780@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001B5-1517850012</ListID>
+<Name>Philip Berardi</Name>
+<FirstName>Philip</FirstName>
+<LastName>Berardi</LastName>
+<Phone>4848542527</Phone>
+<Email>philippberardi@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004E3-1576516939</ListID>
+<Name>Phillips, Ron</Name>
+<FirstName>Ron</FirstName>
+<LastName>Phillips</LastName>
+<Phone>608-370-1954</Phone>
+<Email>ronjonbuilds@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002E4-1537551581</ListID>
+<Name>Philpott, Paul</Name>
+<FirstName>Paul</FirstName>
+<LastName>Philpott</LastName>
+<Phone>703-725-6763</Phone>
+<Email>vtphilpott@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000027E-1529959473</ListID>
+<Name>Pilecki, Randy</Name>
+<FirstName>Randy</FirstName>
+<LastName>Pilecki</LastName>
+<Phone>570-578-5112</Phone>
+<Email>Randy.Pilecki@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000537-1580868992</ListID>
+<Name>37 Black Bear Pass</Name>
+<FirstName>Randy</FirstName>
+<LastName>Pilecki</LastName>
+<Phone>570-578-5112</Phone>
+<Email>Randy.Pilecki@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000534-1580843012</ListID>
+<Name>Pinkard, Lynice</Name>
+<FirstName>Lynice</FirstName>
+<LastName>Pinkard</LastName>
+<Phone>510-379-0667</Phone>
+<Email>lynice.pinkard@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004C6-1574196145</ListID>
+<Name>Pizer, Richard</Name>
+<FirstName>Richard</FirstName>
+<LastName>Pizer</LastName>
+<Phone>570-257-0215</Phone>
+<Email>rcpizer@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000370-1546707329</ListID>
+<Name>Popilek, Melissa</Name>
+<FirstName>Melissa</FirstName>
+<LastName>Popilek</LastName>
+<Phone>989 277 3884</Phone>
+<Email>m.popilek@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000054A-1582381265</ListID>
+<Name>Poulin, Michelle</Name>
+<FirstName>Michelle</FirstName>
+<LastName>Poulin</LastName>
+<Phone>901-229-0375</Phone>
+<Email>mpoulin@snbpackaging.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000046B-1564690013</ListID>
+<Name>Precision Remodel</Name>
+<FirstName>David</FirstName>
+<LastName>Dishunts</LastName>
+<Phone>716-418-6304</Phone>
+<Email>precisionremodel@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800000FB-1507123462</ListID>
+<Name>Prince Geltin</Name>
+<FirstName>Prince</FirstName>
+<LastName>Geltin</LastName>
+<Phone>908-309-4710</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001CD-1518804487</ListID>
+<Name>Prospect St.</Name>
+<FirstName>Adam</FirstName>
+<LastName>Guiffrida</LastName>
+<Phone>5706043996</Phone>
+<Email>adamg@dinamicocorp.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000056E-1584018274</ListID>
+<Name>Priority Realty, LLC</Name>
+<FirstName>Lee</FirstName>
+<LastName>Weber</LastName>
+<Phone>508-450-1897</Phone>
+<Email>lweb110@verizon.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800005BB-1590433005</ListID>
+<Name>Protean Home Solutions</Name>
+<FirstName>Edward</FirstName>
+<LastName>Hayes</LastName>
+<Phone>7044548886</Phone>
+<Email>ehayes@proteanhomesolutions.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000419-1558122110</ListID>
+<Name>Providence Custom Builders</Name>
+<FirstName>Chuck</FirstName>
+<LastName>Winchester</LastName>
+<Phone>980-722-3907</Phone>
+<Email>chuck@providencecustombuilders.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000039F-1549982396</ListID>
+<Name>Pryputniewicz, Thomas</Name>
+<FirstName>Thomas</FirstName>
+<LastName>Pryputniewicz</LastName>
+<Phone>3157231322</Phone>
+<Email>thomaspryputniewicz@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004A7-1571248325</ListID>
+<Name>Pyramid Builders of Palm Beach</Name>
+<FirstName>Nick</FirstName>
+<LastName>Fusco</LastName>
+<Phone>561-762-4210</Phone>
+<Email>pyramidbuilderspb@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003BC-1552488216</ListID>
+<Name>Qureshi, Zohair</Name>
+<FirstName>Zohair</FirstName>
+<LastName>Qureshi</LastName>
+<Phone>631-885-4363</Phone>
+<Email>drzohair@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001EA-1520274591</ListID>
+<Name>Raffa, Jared</Name>
+<FirstName>Jared</FirstName>
+<LastName>Raffa</LastName>
+<Phone>3155328793</Phone>
+<Email>rcyardcare@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000162-1512765496</ListID>
+<Name>Raines</Name>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002F2-1538067195</ListID>
+<Name>Rambo, Dawn</Name>
+<FirstName>Dawn</FirstName>
+<LastName>Rambo</LastName>
+<Phone>8457056447</Phone>
+<Email>newdmv7@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000126-1510581991</ListID>
+<Name>Randall Pavlak</Name>
+<FirstName>Randall</FirstName>
+<LastName>Pavlak</LastName>
+<Phone>9373715570</Phone>
+<Email>asdprdcorp@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000015B-1512756304</ListID>
+<Name>Rasmes</Name>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002D9-1537186501</ListID>
+<Name>Ray Martin</Name>
+<FirstName>Ray</FirstName>
+<LastName>Martin</LastName>
+<Phone>2057439276</Phone>
+<Email>dr_martin@bellsouth.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000221-1523362963</ListID>
+<Name>Raymond Catanesi</Name>
+<FirstName>Raymond</FirstName>
+<LastName>Catanesi</LastName>
+<Phone>716-799-4974</Phone>
+<Email>metro353@msn.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000421-1558641109</ListID>
+<Name>RBS CONSTRUCTION</Name>
+<FirstName>Robert</FirstName>
+<LastName>Siscovitch</LastName>
+<Phone>570-817-9677</Phone>
+<Email>rbsisk02@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000047F-1566482898</ListID>
+<Name>Read, Carey</Name>
+<FirstName>Carey</FirstName>
+<LastName>Read</LastName>
+<Phone>910-734-3557</Phone>
+<Email>maread15@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000239-1524231714</ListID>
+<Name>REBA KINGSBURY</Name>
+<FirstName>REBA</FirstName>
+<LastName>KINGSBURY</LastName>
+<Phone>6077310805</Phone>
+<Email>RSKINGSBURY@HOTMAIL.COM</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000498-1569845420</ListID>
+<Name>Regalbuto, Nicole</Name>
+<FirstName>Nicole</FirstName>
+<LastName>Regalbuto</LastName>
+<Phone>609-665-7798</Phone>
+<Email>nragsss1201@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003D9-1553875821</ListID>
+<Name>Regatta</Name>
+<FirstName>David</FirstName>
+<LastName>Reiger</LastName>
+<Phone>772-595-2035</Phone>
+<Email>office@regattabd.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003EC-1554986195</ListID>
+<Name>REGATTA BUILDING &amp; DEVELOPMENT II</Name>
+<FirstName>David</FirstName>
+<LastName>Rieger</LastName>
+<Phone>772-812-9135</Phone>
+<Email>accounting@regattabd.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002DA-1537216056</ListID>
+<Name>Remick</Name>
+<FirstName>David</FirstName>
+<LastName>Corazza</LastName>
+<Email>riverdog11@verizon.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000032F-1541714363</ListID>
+<Name>Renae Taylor</Name>
+<FirstName>Renae</FirstName>
+<LastName>Taylor</LastName>
+<Phone>8125775893</Phone>
+<Email>kinser97@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000028A-1531232415</ListID>
+<Name>Rich Garmize</Name>
+<FirstName>Rich</FirstName>
+<LastName>Garmize</LastName>
+<Phone>570-299-0564</Phone>
+<Email>rgarmize@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000019E-1515786212</ListID>
+<Name>Richard Byrk</Name>
+<FirstName>Richard</FirstName>
+<LastName>Bryk</LastName>
+<Phone>570-954-4117</Phone>
+<Email>trinty038@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000012C-1511194615</ListID>
+<Name>Richard Pratt</Name>
+<FirstName>Richard</FirstName>
+<LastName>Pratt</LastName>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000034A-1543237971</ListID>
+<Name>Richard Sigona</Name>
+<FirstName>Richard</FirstName>
+<LastName>Sigona</LastName>
+<Phone>3157300224</Phone>
+<Email>Sigona45@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000581-1587402213</ListID>
+<Name>Richards, Michael</Name>
+<FirstName>Michael</FirstName>
+<LastName>Richards</LastName>
+<Phone>518-965-3904</Phone>
+<Email>mdrich217@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003B0-1551280467</ListID>
+<Name>Richardson, James</Name>
+<FirstName>James</FirstName>
+<LastName>Richardson</LastName>
+<Phone>12252945532</Phone>
+<Email>edrjhr@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000252-1525886900</ListID>
+<Name>Rick Dickison</Name>
+<FirstName>Rick</FirstName>
+<LastName>Dickison</LastName>
+<Phone>3602937989</Phone>
+<Email>rjdickison@frontier.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000345-1542739683</ListID>
+<Name>River Hill</Name>
+<FirstName>Tim and Karen</FirstName>
+<LastName>Brusie</LastName>
+<Email>wheelhorsered@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000346-1542746232</ListID>
+<Name>Robert Barron</Name>
+<FirstName>Robert</FirstName>
+<LastName>Baron</LastName>
+<Phone>570-817-0418</Phone>
+<Email>baronbo12@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000025F-1526744223</ListID>
+<Name>Robert Gray</Name>
+<FirstName>Robert and Stephanie</FirstName>
+<LastName>Gray</LastName>
+<Phone>570-498-6307</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000185-1515085854</ListID>
+<Name>robert michniewicz</Name>
+<FirstName>robert</FirstName>
+<LastName>michniewicz</LastName>
+<Phone>5709774485</Phone>
+<Email>directt@ptd.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000049C-1570136567</ListID>
+<Name>Robert, Brinker</Name>
+<FirstName>Brinker</FirstName>
+<LastName>Robert</LastName>
+<Phone>248-763-3623</Phone>
+<Email>rob_brinker@rocketmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000337-1542215610</ListID>
+<Name>Roberts, Melissa</Name>
+<FirstName>Melissa</FirstName>
+<LastName>Roberts</LastName>
+<Phone>570-762-2917</Phone>
+<Email>mberetski@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000217-1522096598</ListID>
+<Name>ROBIN SMITH</Name>
+<FirstName>ROBIN</FirstName>
+<LastName>SMITH</LastName>
+<Phone>4047900095</Phone>
+<Email>cshawnjennings@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000321-1541267218</ListID>
+<Name>Robinson</Name>
+<FirstName>Tom</FirstName>
+<LastName>Robinson</LastName>
+<Email>robinson.tom22@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003C4-1553088917</ListID>
+<Name>Rogers, Chad</Name>
+<FirstName>Chad</FirstName>
+<LastName>Rogers</LastName>
+<Phone>813-810-2287</Phone>
+<Email>chad@ashenterprises.us</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000020F-1521809025</ListID>
+<Name>Ronald Kinnear</Name>
+<FirstName>Ronald &amp; Amanda</FirstName>
+<LastName>Kinnear</LastName>
+<Phone>6318066608</Phone>
+<Email>amandakinnear526@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000248-1525451649</ListID>
+<Name>RonDel New Homes</Name>
+<Phone>610-653-0599</Phone>
+<Email>CherylAShep@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000057E-1587007753</ListID>
+<Name>Rotio, Katie</Name>
+<FirstName>Katie</FirstName>
+<LastName>Rotio</LastName>
+<Phone>617-899-3061</Phone>
+<Email>katie@katherineelizabethevents.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004D9-1576016840</ListID>
+<Name>roux,  Wia</Name>
+<FirstName>Wia</FirstName>
+<LastName>roux</LastName>
+<Phone>603-533-1296</Phone>
+<Email>chrisroux@comcast.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003A9-1550267509</ListID>
+<Name>Roux, Chris</Name>
+<FirstName>Chris</FirstName>
+<LastName>Roux</LastName>
+<Phone>603-598-1660</Phone>
+<Email>chrisroux@comcast.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004DB-1576071516</ListID>
+<Name>roux, Wia</Name>
+<FirstName>Wia</FirstName>
+<LastName>roux</LastName>
+<Phone>603-533-1296</Phone>
+<Email>chrisroux@comcast.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000516-1579127728</ListID>
+<Name>Rueger, Ryan</Name>
+<FirstName>Ryan</FirstName>
+<LastName>Rueger</LastName>
+<Phone>716-213-7575</Phone>
+<Email>r2m2llc@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000522-1579722484</ListID>
+<Name>Ruhl, Sharon</Name>
+<FirstName>Sharon</FirstName>
+<LastName>Ruhl</LastName>
+<Phone>717-450-5543</Phone>
+<Email>sharonkruhl@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000387-1548365714</ListID>
+<Name>RUSSELL, ROBERT</Name>
+<FirstName>ROBERT</FirstName>
+<LastName>RUSSELL</LastName>
+<Phone>+18458562705</Phone>
+<Email>bobnlinda@frontiernet.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000494-1569328870</ListID>
+<Name>Rusty Burdess</Name>
+<FirstName>Rusty</FirstName>
+<LastName>Burgess</LastName>
+<Phone>508-922-3903</Phone>
+<Email>rusty.burgess@pulte.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004A6-1571171158</ListID>
+<Name>Rutkowski, Brian</Name>
+<FirstName>Brian</FirstName>
+<LastName>Rutkowski</LastName>
+<Phone>610-223-6012</Phone>
+<Email>brian@promote2sell.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001E8-1520270435</ListID>
+<Name>Ryan Weber</Name>
+<FirstName>Ryan</FirstName>
+<LastName>Weber</LastName>
+<Phone>7578224661</Phone>
+<Email>landrandg4ever@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003B8-1552053196</ListID>
+<Name>Salus, Lynn</Name>
+<FirstName>Lynn</FirstName>
+<LastName>Salus</LastName>
+<Phone>570-406-4709</Phone>
+<Email>skins541@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000469-1564587889</ListID>
+<Name>Sam Maltese</Name>
+<FirstName>Sam</FirstName>
+<LastName>Maltese</LastName>
+<Phone>607-652-2673</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001E5-1519745849</ListID>
+<Name>Samuel Spooner</Name>
+<FirstName>Samuel</FirstName>
+<LastName>Spooner</LastName>
+<Phone>607-237-4108</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000038E-1549029307</ListID>
+<Name>Sander, Olaf</Name>
+<FirstName>Olaf</FirstName>
+<LastName>Sander</LastName>
+<Phone>727.485.5329</Phone>
+<Email>olaf.sander@bankofamerica.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000129-1511018135</ListID>
+<Name>Sandra Downs</Name>
+<FirstName>Sandra</FirstName>
+<LastName>Downs</LastName>
+<Phone>5853224210</Phone>
+<Email>erintimothy@live.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000476-1565814161</ListID>
+<Name>Sanford, Edward</Name>
+<FirstName>Edward</FirstName>
+<LastName>Sanford</LastName>
+<Phone>908-358-2523</Phone>
+<Email>edward.a.sanford@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800005B3-1590168870</ListID>
+<Name>Satton Ridge</Name>
+<FirstName>Cornelio</FirstName>
+<LastName>Vantze</LastName>
+<Phone>800-922-1103</Phone>
+<Email>dorian@majoris.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003E9-1554904670</ListID>
+<Name>SBmolinaro@gmail.com</Name>
+<Email>SBmolinaro@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001BC-1518110208</ListID>
+<Name>Scaroborough</Name>
+<FirstName>Tom</FirstName>
+<LastName>Tarrant</LastName>
+<Phone>570-954-4068</Phone>
+<Email>tarr1031@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000107-1507638833</ListID>
+<Name>Schall, Chris</Name>
+<FirstName>Chris</FirstName>
+<LastName>Schall</LastName>
+<Phone>570-606-5301</Phone>
+<Email>b.balliet77@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004C5-1574175121</ListID>
+<Name>Scharff</Name>
+<FirstName>Amanda</FirstName>
+<LastName>Scharff</LastName>
+<Phone>215-239-4055</Phone>
+<Email>ascharff5990@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000453-1562939440</ListID>
+<Name>Scholl Plumbing and Heating</Name>
+<FirstName>David</FirstName>
+<LastName>Scholl</LastName>
+<Phone>978-930-9611</Phone>
+<Email>schollpandh@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000015A-1512756108</ListID>
+<Name>Schwartz</Name>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000190-1515253959</ListID>
+<Name>Scot Thompson</Name>
+<FirstName>Scot</FirstName>
+<LastName>Thompson</LastName>
+<Phone>8643505378</Phone>
+<Email>7419spt@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000350-1543844596</ListID>
+<Name>Scott Burdette</Name>
+<FirstName>Scott</FirstName>
+<LastName>Burdette</LastName>
+<Phone>865-566-6276</Phone>
+<Email>scott@mygolfvacation.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001D7-1519228755</ListID>
+<Name>Scott Evans</Name>
+<FirstName>Scott</FirstName>
+<LastName>Evans</LastName>
+<Phone>570-852-3545</Phone>
+<Email>theman54@comcast.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001D8-1519228779</ListID>
+<Name>West End Rd</Name>
+<FirstName>Scott</FirstName>
+<LastName>Evans</LastName>
+<Phone>570-852-3545</Phone>
+<Email>theman45@comcast.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000281-1530111534</ListID>
+<Name>Scott Nealen</Name>
+<FirstName>Scott</FirstName>
+<LastName>Nealen</LastName>
+<Phone>440-669-8648</Phone>
+<Email>nealen.scott@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000032B-1541537127</ListID>
+<Name>Scozzari Builders</Name>
+<FirstName>Leonard</FirstName>
+<LastName>Scozzari</LastName>
+<Phone>609-989-1262</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000392-1549030677</ListID>
+<Name>sdfad, addsda</Name>
+<FirstName>addsda</FirstName>
+<LastName>sdfad</LastName>
+<Phone>73757378387</Phone>
+<Email>shdishdhu@uisd.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000244-1525264838</ListID>
+<Name>Sebia, Mary Jo and Lewis</Name>
+<FirstName>Mary Jo and Lewis</FirstName>
+<LastName>Sebia</LastName>
+<Phone>570-237-1719</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000502-1578495446</ListID>
+<Name>Select Home Solutions Group,</Name>
+<FirstName>Ben</FirstName>
+<LastName>Johnson</LastName>
+<Phone>615-748-0352</Phone>
+<Email>ben@selecthomesolutionsgroup.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000429-1559305044</ListID>
+<Name>Select Home Solutions Group, LLC</Name>
+<FirstName>Hal</FirstName>
+<LastName>Mullins</LastName>
+<Phone>615-636-1619</Phone>
+<Email>amber@selecthomesolutionsgroup.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000579-1586195724</ListID>
+<Name>916B Marilyn</Name>
+<FirstName>Hal</FirstName>
+<LastName>Mullins</LastName>
+<Phone>615-636-1619</Phone>
+<Email>amber@selecthomesolutionsgroup.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000058D-1588647978</ListID>
+<Name>Select Homes</Name>
+<FirstName>Mullins</FirstName>
+<LastName>Hall</LastName>
+<Phone>615-748-0352</Phone>
+<Email>ben@selecthomesolutionsgroup.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000051E-1579613684</ListID>
+<Name>Senat, Eric</Name>
+<FirstName>Eric</FirstName>
+<LastName>Senat</LastName>
+<Phone>917--689-1684</Phone>
+<Email>constantcoral@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004E5-1576619595</ListID>
+<Name>Sharp, Matt</Name>
+<FirstName>Matt</FirstName>
+<LastName>Sharp</LastName>
+<Phone>408-206-3015</Phone>
+<Email>Mtsharp86@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800000B1-1499353423</ListID>
+<Name>SHAWN SALLMON</Name>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000032E-1541714361</ListID>
+<Name>Sheehy, Tina</Name>
+<FirstName>Tina</FirstName>
+<LastName>Sheehy</LastName>
+<Phone>3016936947</Phone>
+<Email>tina@fbcinc.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002BF-1534877519</ListID>
+<Name>Shelly Hankins</Name>
+<FirstName>Shelly</FirstName>
+<LastName>Hankins</LastName>
+<Phone>404-406-5609</Phone>
+<Email>frampton72000@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000559-1582896692</ListID>
+<Name>Shipley, Elinor</Name>
+<FirstName>Elinor</FirstName>
+<LastName>Shipley</LastName>
+<Phone>502-245-4928</Phone>
+<Email>Shipley.ellie@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000519-1579197505</ListID>
+<Name>Shrum, Kailon</Name>
+<FirstName>Kailon</FirstName>
+<LastName>Shrum</LastName>
+<Phone>954-501-6539</Phone>
+<Email>staletrend@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004A3-1570808215</ListID>
+<Name>SHSG, LLC</Name>
+<FirstName>Hal</FirstName>
+<LastName>Mullins</LastName>
+<Phone>615-636-1619</Phone>
+<Email>amber@selecthomesolutionsgroup.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000037A-1547644341</ListID>
+<Name>Siebenthaler, Philip</Name>
+<FirstName>Philip</FirstName>
+<LastName>Siebenthaler</LastName>
+<Phone>513-833-6783</Phone>
+<Email>kimberlys@advantech.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000144-1512495455</ListID>
+<Name>Silver Springs Ranch LLC</Name>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000583-1587512180</ListID>
+<Name>Skeele, Matthew</Name>
+<FirstName>Matthew</FirstName>
+<LastName>Skeele</LastName>
+<Phone>315-436-1459</Phone>
+<Email>mattskeele7@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000051F-1579624841</ListID>
+<Name>Skok, Brian</Name>
+<FirstName>Brian</FirstName>
+<LastName>Skok</LastName>
+<Phone>716-395-9850</Phone>
+<Email>brians@ledgecreek.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000051D-1579524369</ListID>
+<Name>Skok, Kathy</Name>
+<FirstName>Kathy</FirstName>
+<LastName>Skok</LastName>
+<Phone>716-783-1884</Phone>
+<Email>kskoker@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000047-1458329739</ListID>
+<Name>Skoloda, Jessica</Name>
+<Phone>570-237-0463</Phone>
+<Email>jessicaskolodarealtor@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004BE-1573661703</ListID>
+<Name>Smith, Darren</Name>
+<FirstName>Darren</FirstName>
+<LastName>Smith</LastName>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004BC-1573595161</ListID>
+<Name>Smith, Maximo</Name>
+<FirstName>Maximo and Johanna</FirstName>
+<LastName>Smith</LastName>
+<Phone>724-647-7296</Phone>
+<Email>maximo3868@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003F3-1555609252</ListID>
+<Name>SMITH, R. TIMOTHY</Name>
+<FirstName>R. TIMOTHY</FirstName>
+<LastName>SMITH</LastName>
+<Phone>607-206-3553</Phone>
+<Email>rtimothysmith@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000319-1540402664</ListID>
+<Name>Smith, Tim</Name>
+<FirstName>Tim</FirstName>
+<LastName>Smith</LastName>
+<Phone>607-206-3553</Phone>
+<Email>rtimothysmith@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003AF-1551280291</ListID>
+<Name>Smith, Verneane</Name>
+<FirstName>Verneane</FirstName>
+<LastName>Smith</LastName>
+<Phone>4846495990</Phone>
+<Email>mrsvsmith@icloud.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000046-1458323279</ListID>
+<Name>Solomon, Tammy</Name>
+<Phone>570-675-0204</Phone>
+<Email>tammyasolomon@comcast.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003AC-1550584765</ListID>
+<Name>Sparkman, Gisela</Name>
+<FirstName>Gisela</FirstName>
+<LastName>Sparkman</LastName>
+<Phone>(760) 723-1324</Phone>
+<Email>giselaspa@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000587-1587739296</ListID>
+<Name>Sparrow, Jack</Name>
+<FirstName>Jack</FirstName>
+<LastName>Sparrow</LastName>
+<Phone>460-827-5579</Phone>
+<Email>jack@sparrow.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003EB-1554913715</ListID>
+<Name>Spence, Nicole</Name>
+<FirstName>Nicole</FirstName>
+<LastName>Spence</LastName>
+<Phone>347-249-9560</Phone>
+<Email>nicoleaspenceesq@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000315-1540051292</ListID>
+<Name>Sroka</Name>
+<FirstName>David</FirstName>
+<LastName>Corazza</LastName>
+<Email>riverdog11@verizon.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000332-1542036450</ListID>
+<Name>Stacey Crystal</Name>
+<FirstName>Stacey</FirstName>
+<LastName>Crystal</LastName>
+<Phone>Phone: 843-687-6474</Phone>
+<Email>mail: stacey 29556@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000206-1521463297</ListID>
+<Name>Stacey Francis</Name>
+<FirstName>Stacey</FirstName>
+<LastName>Francis</LastName>
+<Phone>2125181580</Phone>
+<Email>sfrancis9940@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000276-1529935774</ListID>
+<Name>Staci Hinsey</Name>
+<FirstName>Staci</FirstName>
+<LastName>Hinsey</LastName>
+<Phone>845-542-4145</Phone>
+<Email>staci813@icloud.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004E1-1576346289</ListID>
+<Name>Stalker, Gary</Name>
+<FirstName>Gary</FirstName>
+<LastName>Stalker</LastName>
+<Phone>518-966-4244</Phone>
+<Email>deervalley42@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000029B-1532437230</ListID>
+<Name>Starmount Investment Group</Name>
+<FirstName>Offer</FirstName>
+<LastName>Sternberg</LastName>
+<Phone>201-310-2755</Phone>
+<Email>starmountinvestmentgroup@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003A6-1550236784</ListID>
+<Name>Steel Services</Name>
+<FirstName>Ray</FirstName>
+<LastName>Martin</LastName>
+<Phone>2057439276</Phone>
+<Email>dr_martin@bellsouth.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000030C-1539376639</ListID>
+<Name>Stephen Feldheim</Name>
+<FirstName>Stephen</FirstName>
+<LastName>Feldheim</LastName>
+<Phone>917-807-7735</Phone>
+<Email>nycpropertydevelopment@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002D5-1536941109</ListID>
+<Name>Stephen Waters</Name>
+<FirstName>Stephen</FirstName>
+<LastName>Waters</LastName>
+<Phone>225-456-0700</Phone>
+<Email>nikkiawaters@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000047D-1566391159</ListID>
+<Name>Stepp, Gregg</Name>
+<FirstName>Gregg</FirstName>
+<LastName>Stepp</LastName>
+<Phone>904-386-2363</Phone>
+<Email>greggstepp@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000049-1458334072</ListID>
+<Name>Steve Fogarty</Name>
+<Phone>570-328-1423</Phone>
+<Email>stephenf7174@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000023E-1524668435</ListID>
+<Name>Steve Franco</Name>
+<Phone>570-237-0124</Phone>
+<Email>gpghequity@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003DD-1554042270</ListID>
+<Name>steve@waverlycabinets.com</Name>
+<Email>steve@waverlycabinets.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000398-1549372568</ListID>
+<Name>Stevens, Heidi</Name>
+<FirstName>Heidi</FirstName>
+<LastName>Stevens</LastName>
+<Phone>9702607856</Phone>
+<Email>has5540@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000580-1587216770</ListID>
+<Name>Stevens, Mark</Name>
+<FirstName>Mark</FirstName>
+<LastName>Stevens</LastName>
+<Phone>610-326-1918</Phone>
+<Email>65stang03@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800000F9-1506543225</ListID>
+<Name>Stevie Dee</Name>
+<FirstName>Stevie</FirstName>
+<LastName>Dee</LastName>
+<Phone>5703137869</Phone>
+<Email>sdhoov1@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000036C-1546291907</ListID>
+<Name>Stilson, Grace</Name>
+<FirstName>Grace</FirstName>
+<LastName>Stilson</LastName>
+<Phone>6072678438</Phone>
+<Email>gstilson@adtransportservices.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004E2-1576501310</ListID>
+<Name>Strang, Walter</Name>
+<FirstName>Walter</FirstName>
+<LastName>Strang</LastName>
+<Phone>860-705-0013</Phone>
+<Email>wdstrang@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003AA-1550496880</ListID>
+<Name>Strellish, Albert &amp; Tammy</Name>
+<FirstName>Albert &amp; Tammy</FirstName>
+<LastName>Strellish</LastName>
+<Phone>570-655-6476</Phone>
+<Email>astrelli@veizon.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000010B-1507819172</ListID>
+<Name>Superior Auto</Name>
+<FirstName>Jimmy</FirstName>
+<LastName>Guilani</LastName>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000467-1564511674</ListID>
+<Name>Surace, Carmela</Name>
+<FirstName>Carmela</FirstName>
+<LastName>Surace</LastName>
+<Phone>585-966-9603</Phone>
+<Email>c_sur_it@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000033F-1542644680</ListID>
+<Name>Susice, Paul</Name>
+<FirstName>Paul</FirstName>
+<LastName>Susice</LastName>
+<Phone>315-842-0514</Phone>
+<Email>psusice@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000004D-1458573405</ListID>
+<Name>Susko, Russ</Name>
+<Phone>570-696-2933</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000402-1556543395</ListID>
+<Name>Sutton, Mark</Name>
+<FirstName>Mark</FirstName>
+<LastName>Sutton</LastName>
+<Phone>150-857-9267</Phone>
+<Email>suttonmark10@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800000B3-1499775436</ListID>
+<Name>Sync for QuickBooks Customer</Name>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001AE-1516384601</ListID>
+<Name>Tammy Scobee</Name>
+<FirstName>Tammy</FirstName>
+<LastName>Scobee</LastName>
+<Phone>9049404413</Phone>
+<Email>tscobee@comcast.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000052C-1580398465</ListID>
+<Name>Tanenbaum, Victoria</Name>
+<FirstName>Victoria</FirstName>
+<LastName>Tanenbaum</LastName>
+<Phone>407-242-9159</Phone>
+<Email>vtanenb@g.clemson.edu</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800000F4-1506442195</ListID>
+<Name>Tanya Sharpe</Name>
+<FirstName>Tanya</FirstName>
+<LastName>Sharpe</LastName>
+<Email>trsharpe@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002DE-1537296433</ListID>
+<Name>TARA TATE</Name>
+<FirstName>TARA</FirstName>
+<LastName>TATE</LastName>
+<Phone>585-201-2179</Phone>
+<Email>ttate911@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001E7-1520189284</ListID>
+<Name>Tavian Hall</Name>
+<FirstName>Tavian</FirstName>
+<LastName>Hall</LastName>
+<Phone>2404917401</Phone>
+<Email>tavianhall@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002B3-1533738768</ListID>
+<Name>Ted Petrochko</Name>
+<FirstName>Ted</FirstName>
+<LastName>Petrochko</LastName>
+<Phone>570-533-6087</Phone>
+<Email>tedpetrochko03@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000056F-1584383789</ListID>
+<Name>Tenhundfeld, Sara</Name>
+<FirstName>Sara</FirstName>
+<LastName>Tenhundfeld</LastName>
+<Phone>513-213-6476</Phone>
+<Email>saraemaria1184@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002E2-1537539292</ListID>
+<Name>Teresa McLaine</Name>
+<FirstName>Teresa</FirstName>
+<LastName>McLaine</LastName>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000026B-1527606766</ListID>
+<Name>Teresa Rainey</Name>
+<FirstName>Teresa</FirstName>
+<LastName>Rainey</LastName>
+<Phone>8507680075</Phone>
+<Email>teresaleerainey@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002DF-1537296486</ListID>
+<Name>Teresa Romano</Name>
+<FirstName>Teresa</FirstName>
+<LastName>Romano</LastName>
+<Phone>570-655-0878</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001EB-1520282638</ListID>
+<Name>Terra Munoz</Name>
+<FirstName>Terra</FirstName>
+<LastName>Munoz</LastName>
+<Phone>4797398067</Phone>
+<Email>terra_munoz@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002D3-1536867277</ListID>
+<Name>Terry Mcerlean</Name>
+<FirstName>Terry</FirstName>
+<LastName>Mcerlean</LastName>
+<Phone>1-516- 850-0501</Phone>
+<Email>surflido@Aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000572-1585064084</ListID>
+<Name>Legacy Cove Circle</Name>
+<FirstName>Terry</FirstName>
+<LastName>Mcerlean</LastName>
+<Phone>1-516- 850-0501</Phone>
+<Email>surflido@Aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800000F8-1506541059</ListID>
+<Name>Test User</Name>
+<FirstName>Test</FirstName>
+<LastName>User</LastName>
+<Phone>5704304396</Phone>
+<Email>chris@waverlycabinets.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002BB-1534768459</ListID>
+<Name>tester</Name>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000207-1521463714</ListID>
+<Name>Thafer Hanini</Name>
+<FirstName>Thafer</FirstName>
+<LastName>Hanini</LastName>
+<Phone>9737041807</Phone>
+<Email>thanini@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002B2-1533738327</ListID>
+<Name>Theodore Petrochko</Name>
+<FirstName>Theodore</FirstName>
+<LastName>Petrochko</LastName>
+<Phone>570-533-6087</Phone>
+<Email>tedpetrochko03@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002AA-1533218177</ListID>
+<Name>Thomas J Hayward</Name>
+<FirstName>Thomas</FirstName>
+<LastName>Hayward</LastName>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000052D-1580431764</ListID>
+<Name>Three Rivers Contracting LLC</Name>
+<FirstName>Kent</FirstName>
+<LastName>Brelsford</LastName>
+<Phone>865-567-0071</Phone>
+<Email>kentbrelsford@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000202-1521212802</ListID>
+<Name>Tiffany Gayle</Name>
+<FirstName>Tiffany</FirstName>
+<LastName>Gayle</LastName>
+<Phone>2018890065</Phone>
+<Email>t.mccormicktag@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000041B-1558378480</ListID>
+<Name>Tim GInder</Name>
+<FirstName>Tim</FirstName>
+<LastName>Ginder</LastName>
+<Phone>610-462-5046</Phone>
+<Email>greentuck78@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000038C-1548685968</ListID>
+<Name>Timmons, Lauren</Name>
+<FirstName>Lauren</FirstName>
+<LastName>Timmons</LastName>
+<Phone>7069936535</Phone>
+<Email>bigtrimmingllc@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000146-1512495924</ListID>
+<Name>Timothy Gregory</Name>
+</CustomerRet>
+<CustomerRet>
+<ListID>800000F2-1506082757</ListID>
+<Name>Timothy Shepard</Name>
+<FirstName>Timothy</FirstName>
+<LastName>Shepard</LastName>
+<Phone>518-321-6578</Phone>
+<Email>Tshep68@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001CA-1518615575</ListID>
+<Name>Timothy White</Name>
+<FirstName>Timothy</FirstName>
+<LastName>White</LastName>
+<Phone>3038817445</Phone>
+<Email>tim.c.white@me.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000055C-1583153616</ListID>
+<Name>Tinsley, Lance</Name>
+<FirstName>Lance</FirstName>
+<LastName>Tinsley</LastName>
+<Phone>417-830-3941</Phone>
+<Email>Lance.tinsley@icloud.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001A4-1516216001</ListID>
+<Name>Tom Tarrant</Name>
+<FirstName>Tom</FirstName>
+<LastName>Tarrant</LastName>
+<Phone>570-954-4068</Phone>
+<Email>tarr1031@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001BB-1518110119</ListID>
+<Name>Pino</Name>
+<FirstName>Tom</FirstName>
+<LastName>Tarrant</LastName>
+<Phone>570-954-4068</Phone>
+<Email>tarr1031@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800002A1-1532695784</ListID>
+<Name>Rosenquist</Name>
+<FirstName>Tom</FirstName>
+<LastName>Tarrant</LastName>
+<Phone>570-954-4068</Phone>
+<Email>tarr1031@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000400-1556374539</ListID>
+<Name>Tom Walsh</Name>
+<FirstName>Thomas</FirstName>
+<LastName>Walsh</LastName>
+<Phone>248-762-3685</Phone>
+<Email>tfhwalsh@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000428-1559222868</ListID>
+<Name>tommaselli, mario</Name>
+<FirstName>mario</FirstName>
+<LastName>tommaselli</LastName>
+<Phone>570-239-4593</Phone>
+<Email>selli1212@msn.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001DE-1519413754</ListID>
+<Name>Tracey Davy</Name>
+<FirstName>Tracey</FirstName>
+<LastName>Davy</LastName>
+<Phone>8057461794</Phone>
+<Email>tracey_davy@msn.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004A1-1570796756</ListID>
+<Name>Tri-State Restoration Services, LLC</Name>
+<FirstName>RONALD</FirstName>
+<LastName>Muddiman</LastName>
+<Phone>513-470-4576</Phone>
+<Email>RonM@TriStateRestoration.Com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000518-1579190006</ListID>
+<Name>Tricomy, Jake</Name>
+<FirstName>Jake</FirstName>
+<LastName>Tricomy</LastName>
+<Phone>004-077-5293-815</Phone>
+<Email>jaketricomy@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000285-1530629379</ListID>
+<Name>Troy Kolo</Name>
+<FirstName>Troy</FirstName>
+<LastName>Kolo</LastName>
+<Email>troykolo@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000041A-1558360954</ListID>
+<Name>Turner, Jennifer</Name>
+<FirstName>Jennifer</FirstName>
+<LastName>Turner</LastName>
+<Phone>845-701-0523</Phone>
+<Email>JenniferTurner28@aim.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000475-1565792759</ListID>
+<Name>Twin City Builders</Name>
+<FirstName>Dawn</FirstName>
+<LastName>Monk</LastName>
+<Phone>570-824-2489</Phone>
+<Email>dawn@twincitybuilders.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000438-1561400733</ListID>
+<Name>Ulichney, John</Name>
+<FirstName>John</FirstName>
+<LastName>Ulichney</LastName>
+<Email>ulich115@ptd.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003C3-1553048273</ListID>
+<Name>Unique Custom Services LLC</Name>
+<FirstName>Dennis</FirstName>
+<LastName>Perry</LastName>
+<Phone>239-603-5001</Phone>
+<Email>dperry1173@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000401-1556374617</ListID>
+<Name>Upper Scotsborough Way</Name>
+<FirstName>Thomas</FirstName>
+<LastName>Walsh</LastName>
+<Phone>248-762-3685</Phone>
+<Email>tfhwalsh@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000396-1549292717</ListID>
+<Name>Valenti, Daniel</Name>
+<FirstName>Daniel</FirstName>
+<LastName>Valenti</LastName>
+<Phone>570-466-4282</Phone>
+<Email>DValenti@Borton-Lawson.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003F0-1555437879</ListID>
+<Name>Vance, Greg</Name>
+<FirstName>Greg</FirstName>
+<LastName>Vance</LastName>
+<Phone>502-817-6999</Phone>
+<Email>gvance@advance-realtors.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800005B4-1590169769</ListID>
+<Name>Vernon, Corry</Name>
+<FirstName>Corry</FirstName>
+<LastName>Vernon</LastName>
+<Phone>800-922-1103</Phone>
+<Email>dorian@majoris.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000262-1527079301</ListID>
+<Name>Vicki Hanson</Name>
+<FirstName>Vicki</FirstName>
+<LastName>Hanson</LastName>
+<Phone>360 210 7572</Phone>
+<Email>hansonhome@comcast.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000021F-1523018664</ListID>
+<Name>Victoria Correia</Name>
+<FirstName>Victoria</FirstName>
+<LastName>Correia</LastName>
+<Phone>4012561052</Phone>
+<Email>v_correia@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000481-1566590402</ListID>
+<Name>Villalba, Fernando</Name>
+<FirstName>Fernando</FirstName>
+<LastName>Villalba</LastName>
+<Phone>714-865-5927</Phone>
+<Email>fernandov@jwmays.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000056C-1583946972</ListID>
+<Name>Vision Home Builders</Name>
+<FirstName>Shawn</FirstName>
+<LastName>McCreary</LastName>
+<Phone>570-784-0404</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000051B-1579271827</ListID>
+<Name>Vontela, Devender</Name>
+<FirstName>Devender</FirstName>
+<LastName>Vontela</LastName>
+<Phone>703-980-3043</Phone>
+<Email>dev_real@hotmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000357-1544125448</ListID>
+<Name>Walsh, Mary (S-I)</Name>
+<FirstName>Mary</FirstName>
+<LastName>Walsh</LastName>
+<Phone>845-417-6766</Phone>
+<Email>mzw1103@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000168-1513019656</ListID>
+<Name>walter mosely</Name>
+<FirstName>walter</FirstName>
+<LastName>mosely</LastName>
+<Phone>6232066992</Phone>
+<Email>wmosely62@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000055F-1583153687</ListID>
+<Name>Warble, Divya</Name>
+<FirstName>Divya</FirstName>
+<LastName>Warble</LastName>
+<Phone>484-889-1312</Phone>
+<Email>divyarajpaul@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000542-1581458975</ListID>
+<Name>Ward, Denika</Name>
+<FirstName>Denika</FirstName>
+<LastName>Ward</LastName>
+<Phone>713-530-0665</Phone>
+<Email>dpbestlife@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004C3-1574170513</ListID>
+<Name>Washingon house</Name>
+<FirstName>ANTHONY</FirstName>
+<LastName>Hooper</LastName>
+<Phone>202-387-6000</Phone>
+<Email>ahooper@ptmanagement.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000362-1545167835</ListID>
+<Name>Watkin Street</Name>
+<Phone>570-309-1095</Phone>
+<Email>jason@agency570.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003CD-1553195945</ListID>
+<Name>Watson, Herbert</Name>
+<FirstName>Herbert</FirstName>
+<LastName>Watson</LastName>
+<Phone>814-647-8362</Phone>
+<Email>herbertwatson73@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003D5-1553779643</ListID>
+<Name>Wells, Sharon</Name>
+<FirstName>Sharon</FirstName>
+<LastName>Wells</LastName>
+<Phone>201-543-3345</Phone>
+<Email>sharonwells@outlook.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000329-1541517241</ListID>
+<Name>Wendy Tanenbaum</Name>
+<FirstName>Wendy</FirstName>
+<LastName>Tanenbaum</LastName>
+<Phone>407 415-2600</Phone>
+<Email>Wendytdesign@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003D0-1553517656</ListID>
+<Name>Wheeler, Ana</Name>
+<FirstName>Ana</FirstName>
+<LastName>Wheeler</LastName>
+<Phone>585-406-0340</Phone>
+<Email>anacwhe@aol.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000372-1546868467</ListID>
+<Name>WHITE, BRIAN</Name>
+<FirstName>BRIAN</FirstName>
+<LastName>WHITE</LastName>
+<Phone>330-719-1062</Phone>
+<Email>michellewhite412@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000592-1588895848</ListID>
+<Name>Wilbur, Patrick</Name>
+<FirstName>Patrick</FirstName>
+<LastName>Wilbur</LastName>
+<Phone>414-526-7246</Phone>
+<Email>patrickwilbur@att.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003E4-1554736856</ListID>
+<Name>Wilkenfeld</Name>
+<FirstName>Wilkenfeld</FirstName>
+<LastName>Don</LastName>
+<Phone>908-967-1968</Phone>
+<Email>dwilk120@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800003E5-1554738624</ListID>
+<Name>Wilkenfeld, Don</Name>
+<FirstName>Wilkenfeld</FirstName>
+<LastName>Don</LastName>
+<Phone>908-967-1968</Phone>
+<Email>dwilk120@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000452-1562937251</ListID>
+<Name>Willett, James</Name>
+<FirstName>James</FirstName>
+<LastName>Willett</LastName>
+<Phone>409-719-2618</Phone>
+<Email>Zz71jim@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000300-1538568799</ListID>
+<Name>William Richter</Name>
+<FirstName>William</FirstName>
+<LastName>Richter</LastName>
+<Phone>7574234148</Phone>
+<Email>shamaw46@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000167-1513019638</ListID>
+<Name>William Toothaker</Name>
+<FirstName>William</FirstName>
+<LastName>Toothaker</LastName>
+<Phone>5705735526</Phone>
+<Email>billusaf@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000308-1539019821</ListID>
+<Name>Winchester, Charles</Name>
+<FirstName>Charles</FirstName>
+<LastName>Winchester</LastName>
+<Phone>980-722-3907</Phone>
+<Email>winchester.charlesr@gmail.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000339-1542223699</ListID>
+<Name>Wolf, Kurt</Name>
+<FirstName>Kurt</FirstName>
+<LastName>Wolf</LastName>
+<Phone>7014001876</Phone>
+<Email>kwolf@701productions.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>8000004F-1458574201</ListID>
+<Name>Wyoming Valley Rentals</Name>
+<Phone>570-466-4176</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000045-1458319859</ListID>
+<Name>Yatsko, Joe and Jackie</Name>
+<Phone>570-333-1494</Phone>
+<Email>jackieyatsko@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004CA-1574448965</ListID>
+<Name>York, Charles</Name>
+<FirstName>Charles</FirstName>
+<LastName>York</LastName>
+<Phone>508-991-9597</Phone>
+<Email>cfyork@comcast.net</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800001C7-1518454235</ListID>
+<Name>Yuri Loparev</Name>
+<FirstName>Yuri</FirstName>
+<LastName>Loparev</LastName>
+<Phone>401-400-1401</Phone>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004E7-1576677099</ListID>
+<Name>Zaleski, Matt</Name>
+<FirstName>Matt</FirstName>
+<LastName>Zaleski</LastName>
+<Phone>570-906-4972</Phone>
+<Email>zhog1929@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>80000564-1583356956</ListID>
+<Name>Bowdens Road</Name>
+<FirstName>Matt</FirstName>
+<LastName>Zaleski</LastName>
+<Phone>570-906-4972</Phone>
+<Email>zhog1929@yahoo.com</Email>
+</CustomerRet>
+<CustomerRet>
+<ListID>800004E8-1576677178</ListID>
+<Name>Washington St</Name>
+<FirstName>Matt</FirstName>
+<LastName>Zaleski</LastName>
+<Phone>570-906-4972</Phone>
+<Email>zhog1929@yahoo.com</Email>
+</CustomerRet>
+</CustomerQueryRs>
+</QBXMLMsgsRs>
+</QBXML>
