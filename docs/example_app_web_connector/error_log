@@ -1,0 +1,5 @@
+[21-May-2020 08:38:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/waverlycabinets/public_html/qbw/docs/web_connector/example_app_web_connector/handler.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/waverlycabinets/public_html/qbw/docs/web_connector/example_app_web_connector/handler.php on line 32
+[21-May-2020 08:52:53 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/waverlycabinets/public_html/qbw/docs/web_connector/example_app_web_connector/handler.php on line 32
