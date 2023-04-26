@@ -1,0 +1,363 @@
+*{text-indent: 0px; padding: 0px; margin: 0px;}
+
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color : #fff;
+	font-family: Tahoma, Arial, Verdana;
+	font-size: 13px;
+	-webkit-transition: all 0.1s ease; /* Safari and Chrome */
+	-moz-transition: all 0.1s ease;   /* Firefox */
+	-ms-transition: all 0.1s ease;   /* Opera   */
+	-o-transition: all 0.1s ease;   /* IE 9    */
+	transition: all 0.1s ease;
+
+}
+
+a, a:active, a:visited{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+	color: #f90;
+}
+td{
+	vertical-align: top;
+}
+td a, td a:active, td a:visited{
+	padding: 1px 5px;
+	color: #00f;
+	text-decoration: none;
+}
+td a:hover{
+	text-decoration: none;
+	background: #009;
+	color: #fff;
+}
+
+.container{
+	margin: 0 auto;
+}
+
+h3{
+color: #09c;
+text-shadow: 1px 2px 3px #000;
+}
+h4{
+margin: 20px;
+font-size: 15px;
+color: #690;
+text-align: center;
+}
+#Top{
+height: 20px;
+width: 100%;
+padding: 0px;
+background: #006;
+background-image: linear-gradient(to left, #012, #09c);	
+border-bottom: solid 1px #930; 
+}
+#Top div{
+float: left;
+padding: 0px 15px;
+color: #fff;
+}
+#Top div a{ color: #fff; text-decoration: none;}
+#Top div a:hover{ color: #f00; }
+#LogForm{
+width: 420px; 
+margin: 40px auto;
+}
+#LogForm table td{
+font: normal 15px "Arial";
+color: #999;
+}
+
+#TMenu{
+height: 22px;
+width: 100%; 
+background-image: linear-gradient(to left, #012, #fff);		
+}
+#TMenu ul li{
+float: left;
+list-style: none;
+padding: 3px 5px;
+border-right: solid 1px #ccc;
+font: bold 13px "Tahoma";
+}
+#TMenu ul li:last-child{
+border: none;
+}
+#TMenu ul li:hover{
+background: #000;
+cursor: pointer;
+}
+#TMenu ul li a{
+text-decoration: none;
+color: #999;
+}
+#TMenu ul li:hover a{
+color: #c90;
+}
+
+.TBL{
+width: 100%;
+background: #eee;
+}
+.TBL tr:nth-child(odd) td{ background-color: #eee; }
+.TBL th{
+padding: 2px;
+background: #777;
+font: bold 11px "Arial";
+color: #eee;
+}
+
+.TBL td{
+padding: 1px;
+font: normal 11px "Arial";
+color: #000;
+border-collapse: collapse;
+background: #fff;
+}
+.TBL tr td:first-child{ width: 5px; text-align: right; color: #999; }
+
+
+.PrListTbl{
+width: 80%;
+background: #eee;
+}
+.PrListTbl tr:nth-child(odd) td{ background-color: #eee; }
+.PrListTbl th{
+padding: 2px;
+background: #777;
+font: bold 11px "Arial";
+color: #eee;
+}
+
+.PrListTbl td{
+padding: 1px;
+font: normal 11px "Arial";
+color: #000;
+border-collapse: collapse;
+background: #fff;
+}
+.PrListTbl tr td:first-child{ width: 5px; text-align: right; color: #999; }
+
+
+
+
+
+
+
+
+.FormTBL textarea, .FormTBL input, .FormTBL select{
+width: 200px;
+background: #ffd;
+color: #009;
+}
+
+.FormTBL textarea, .FormTBL input{
+padding: 0px 4px;
+}
+
+.zclose, a .zclose{ border: none; outline: none; width: 20px; margin: 0px;
+	-webkit-transition: all 0.1s ease; /* Safari and Chrome */
+	-moz-transition: all 0.1s ease;   /* Firefox */
+	-ms-transition: all 0.1s ease;   /* Opera   */
+	-o-transition: all 0.1s ease;   /* IE 9    */
+	transition: all 0.1s ease;
+
+	-webkit-transform:scale(0.7); /* Safari and Chrome */
+	-moz-transform:scale(0.7); /* Firefox */
+	-ms-transform:scale(0.7); /* IE 9 */
+	-o-transform:scale(0.7); /* Opera */
+	transform:scale(0.7);
+
+	-moz-filter: grayscale(1);
+	-ms-filter: grayscale(1);
+	-o-filter: grayscale(1);
+	filter: grayscale(1);
+	cursor: pointer;
+
+	opacity: 0.5;
+	filter: alpha(opacity=0.5); /* For IE8 and earlier */
+}
+.zclose:hover, a .zclose:hover{
+	-webkit-transform:scale(1); /* Safari and Chrome */
+	-moz-transform:scale(1); /* Firefox */
+	-ms-transform:scale(1); /* IE 9 */
+	-o-transform:scale(1); /* Opera */
+	transform:scale(1);
+
+	-moz-filter: grayscale(0);
+	-ms-filter: grayscale(0);
+	-o-filter: grayscale(0);
+	filter: grayscale(0);
+
+	opacity: 1;
+	filter: alpha(opacity=1); /* For IE8 and earlier */
+}
+
+.SpStyle3, .SpStyle4{
+	max-width: 90px;
+	font-weight: bold;
+	color: #f90;
+	cursor: pointer;
+}
+.SpStyle3{ float: right; }
+.SpStyle4{ float: left; }
+.SpStyle3:hover{
+	color: #009 ;
+}
+.SpStyle3 img{
+	max-height: 10px;
+	max-width: 10px;
+}
+.SpStyle4 img{
+	max-width: 15px;
+}
+
+#Shed{
+	display: none;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+	background: #000;
+	opacity: 0.5;
+	z-index: 300;
+}
+#popup{
+	display: none;
+	position: fixed;
+	top: 25%;
+	left:25%;
+	width: 50%;
+	height: 50%;
+	background: #fff;
+	padding: 12px;
+	border: solid 1px #999;
+	border-radius: 12px;
+	box-shadow: 9px 9px 9px 3px #333;
+	z-index: 350;
+}
+
+.Trg1{
+	width: auto;
+	
+}
+.Trg2{
+	margin-left: 30px;
+	
+}
+
+.Scn3{
+	float: left;
+	margin: 0 3px;
+	color: #008;
+	cursor: pointer;
+}
+
+.StepLst{ width: 500px; }
+.StepLst th{ border-right: solid 1px #ccc; }
+
+#RSlider{
+	position: absolute;
+	top: 20px;
+	right: 0px;
+	width: 250px;
+	height: 40px;
+	background-color: #fc9;
+	padding-left:8px;
+	border: solid 1px #c00;
+	border-radius: 0px 0px 0px 9px;
+}
+
+
+
+
+
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+	left: -4px;
+	margin: 3px;
+	border-left: solid 1px #ccc;
+	border-bottom: solid 1px #ccc;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    ox-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 100;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: #999 !important;
+    padding: 5px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #000; color: #ccc !important;}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
+
+#SrchSrt{
+	float: right;
+	margin:0px 10px;
+}
+#SrchSrt input{
+	height: 27px;
+	padding: 3px;
+	margin:2px;
+	border-radius: 5px;
+	background: #ffd;
+}
+
+
+.Footer{
+	height: 70px;
+	margin-top: 35px;
+	padding: 1px 7px;
+	border-top: solid 1px #ccc;
+	color: #ccc;
+}
+
+
+
+#CConsole{
+	margin: 0px;
+	padding: 0px;
+	background-color : #fff;
+	font-family: Tahoma, Arial, Verdana;
+	font-size: 13px;
+	-webkit-transition: all 0.3s ease; /* Safari and Chrome */
+	-moz-transition: all 0.3s ease;   /* Firefox */
+	-ms-transition: all 0.3s ease;   /* Opera   */
+	-o-transition: all 0.3s ease;   /* IE 9    */
+	transition: all 0.3s ease;
+
+}
+
+
+/**     *************************     **/
+/**     ********** The end ******     **/
+/**     *************************     **/

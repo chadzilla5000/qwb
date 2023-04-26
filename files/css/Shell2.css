@@ -1,0 +1,104 @@
+
+div table{
+
+}
+
+table td{
+	padding: 5px 9px !important;
+	vertical-align: center !important;
+	font: bold 15px 'Tahoma' !important;
+	color: #fd9;
+}
+
+
+table td:first-child{
+	width: 20%;
+	text-align: right;
+	font: normal 15px 'Verdana' !important;
+	color: #fd9;
+}
+
+input{
+	border: none;
+	outline: none;
+	margin-left: 5px;
+	width: 280px;
+	font: normal 19px 'Arial';
+	background: #fff;
+	color: #99f !important;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #ddd;
+    opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: #ddd;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+    color: #ddd;
+}
+
+.BrgOrd{
+	border: solid 3px #eee;
+	border-radius: 5px;
+	background: #fff;
+	margin: 5px;
+	padding: 2px 3px;
+	font: normal 13px 'Arial';
+}
+.BrgExpOrd{
+	min-width: 320px;
+	eight: 30px;
+	border: solid 1px #999;
+	border-top: none;
+	border-left: none;
+	margin: 3px;
+	padding: 0px;
+	font: normal 11px 'Arial';
+}
+
+.BrgOrd table, .BrgExpOrd table{
+	width: 100% !important;
+	margin-top: 0% !important;
+}
+.BrgOrd table td{
+	width: 30% !important;
+	font: normal 12px 'Arial' !important;
+	padding: 0px !important;
+	background: #fff !important;
+	color: #000;
+}
+.BrgExpOrd table td{
+	width: 30% !important;
+	font: normal 12px 'Arial' !important;
+	padding: 0px !important;
+	text-align: center !important;
+	background: #fff !important;
+	color: #000;
+}
+
+.BrgOrd table td:first-child{
+	text-align: right;
+	background: #ffd !important;
+	font: normal 11px 'Arial' !important;
+	color: #333;
+}
+
+.BrgSct{
+float: left; 
+background: #ccc; 
+width: 32%; 
+height: 67%; 
+border-radius: 7px;
+margin-left: 10px;	
+}
+
+.BrgSct .BrgSctitle{
+	margin: 3px 9px;
+	font-size: 15px;
+	font-weight: bold;
+	color: #335;
+}

@@ -1,0 +1,106 @@
+
+.WHTBL{
+margin-top: 3x;
+width: 100%;
+background: #eee;
+}
+.WHTBL th{
+padding: 2px;
+background: #777;
+font: bold 11px "Arial";
+color: #eee;
+}
+
+.WHTBL td{
+padding: 1px;
+font: normal 11px "Arial";
+color: #333;
+border-collapse: collapse;
+background: #fff;
+}
+
+.WHTBL tr:nth-child(odd) td{
+background-color: #eee;
+}
+
+table td{
+	padding: 2px 3px !important;
+	vertical-align: center !important;
+	font: normal 11px 'Tahoma' !important;
+}
+
+
+table td:first-child{
+	text-align: right;
+	background: #ddd !important;
+}
+
+input{
+	border: none;
+	outline: none;
+	margin-left: 5px;
+	font: normal 19px 'Arial';
+	background: #fff !important;
+	color: #99c !important;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #ddd;
+    opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: #ddd;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+    color: #ddd;
+}
+
+.BrgOrd{
+	float: left;
+	width: 250px;
+	height: 80px;
+	border: solid 3px #eee;
+	border-radius: 5px;
+	margin: 5px;
+	padding: 2px 3px;
+	font: normal 11px 'Arial';
+}
+.BrgExpOrd{
+	min-width: 320px;
+	eight: 30px;
+	border: solid 1px #999;
+	border-top: none;
+	border-left: none;
+	margin: 3px;
+	padding: 0px;
+	font: normal 11px 'Arial';
+}
+
+.BrgOrd table, .BrgExpOrd table{
+	width: 100% !important;
+	margin-top: 0% !important;
+}
+.BrgOrd table td{
+	width: 30% !important;
+	font: normal 12px 'Arial' !important;
+	padding: 0px !important;
+	background: #fff !important;
+	color: #000;
+}
+.BrgExpOrd table td{
+	width: 30% !important;
+	font: normal 12px 'Arial' !important;
+	padding: 0px !important;
+	text-align: center !important;
+	background: #fff !important;
+	color: #000;
+}
+
+.BrgOrd table td:first-child{
+	text-align: right;
+	background: #ffd !important;
+	font: normal 11px 'Arial' !important;
+	color: #333;
+}

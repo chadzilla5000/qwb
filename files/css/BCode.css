@@ -1,0 +1,50 @@
+.Empl1{
+	float: left; 
+	width: 185px; 
+	ext-align: center; 
+	margin: 3px; 
+	padding: 3px; 
+	padding-top: 15px; 
+	font-size: 12px;
+	border: dotted 1px #ccc;
+}
+.Empl1 img{idth: 175px;}
+.Empl1 .cdg{
+	position: relative; 
+	width: 175px; 
+	top: -17px; 
+	font-size: 13px;
+}
+.Empl1 .cdg div{
+	background: #fff; 
+	text-align: center; 
+	margin:0px 2px;
+	padding: 0px 2px;
+}
+
+
+.BCShell{
+	float: left;
+	width: 230px;
+	height: 140px;
+	/*
+transform: rotate(90deg); 
+*/
+	border-left: solid 1px #ccc;
+	border-bottom: solid 1px #ccc;
+	margin: 15px; padding: 5px;
+}
+
+.BCShell table td{	font: normal 11px "Arial"; }
+.BCShell table td:first-child, .BCShell table td:nth-child(3){ text-align: right; width: 30px; color: #777; }
+.BCShell .BCB{ padding: 0px; }
+.BCShell .BV2{ 
+	width: 103px;
+	position: relative;
+	float: right;
+	top: 12px;
+	font: normal 11px 'Arial';
+	background: #fff;
+	padding: 1px 3px; 
+	}
+.BCShell .BCB img{  }
