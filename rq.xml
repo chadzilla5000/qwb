@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<?qbxml version="13.0"?>
+	<QBXML>
+		<QBXMLMsgsRq onError="stopOnError">
+			<ReceivePaymentAddRq>
+				<ReceivePaymentAdd>
+					<CustomerRef>
+						<FullName>Brinker, Rob</FullName>
+					</CustomerRef>
+					<TxnDate>2019-04-17</TxnDate>
+					<RefNumber>697</RefNumber>
+					<TotalAmount>170.00</TotalAmount>
+					<PaymentMethodRef>
+						<FullName>Paypal</FullName>
+					</PaymentMethodRef>
+					<Memo>Paid In Full</Memo>
+					<DepositToAccountRef>
+						<FullName>Undeposited Funds</FullName>
+					</DepositToAccountRef>
+					<IsAutoApply>true</IsAutoApply>
+				</ReceivePaymentAdd>
+			</ReceivePaymentAddRq>
+		</QBXMLMsgsRq>
+	</QBXML>
