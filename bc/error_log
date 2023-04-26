@@ -1,0 +1,100 @@
+[29-Mar-2022 19:19:46 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting ')' in /home/waverlycabinets/public_html/qbw/bc/index.php on line 2
+[29-Mar-2022 19:20:16 UTC] PHP Warning:  require(../svendor/autoload.php): failed to open stream: No such file or directory in /home/waverlycabinets/public_html/qbw/bc/index.php on line 5
+[29-Mar-2022 19:20:16 UTC] PHP Fatal error:  require(): Failed opening required '../svendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/waverlycabinets/public_html/qbw/bc/index.php on line 5
+[29-Mar-2022 19:20:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Bigcommerce\Api\Client' not found in /home/waverlycabinets/public_html/qbw/bc/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/waverlycabinets/public_html/qbw/bc/index.php on line 11
+[29-Mar-2022 19:21:47 UTC] PHP Fatal error:  Uncaught Error: Class 'src\Bigcommerce\Api\Client' not found in /home/waverlycabinets/public_html/qbw/bc/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/waverlycabinets/public_html/qbw/bc/index.php on line 11
+[29-Mar-2022 19:22:44 UTC] PHP Fatal error:  Uncaught Error: Class 'src\Bigcommerce\Api\Client' not found in /home/waverlycabinets/public_html/qbw/bc/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/waverlycabinets/public_html/qbw/bc/index.php on line 11
+[29-Mar-2022 19:23:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Bigcommerce\Api\Client' not found in /home/waverlycabinets/public_html/qbw/bc/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/waverlycabinets/public_html/qbw/bc/index.php on line 11
+[29-Mar-2022 19:30:57 UTC] PHP Warning:  require_once(Api.php): failed to open stream: No such file or directory in /home/waverlycabinets/public_html/qbw/bc/index.php on line 8
+[29-Mar-2022 19:30:57 UTC] PHP Fatal error:  require_once(): Failed opening required 'Api.php' (include_path='.:/opt/alt/php73/usr/share/pear:/home/waverlycabinets/public_html/qbw') in /home/waverlycabinets/public_html/qbw/bc/index.php on line 8
+[29-Mar-2022 19:37:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Bigcommerce\Api\Connection' not found in /home/waverlycabinets/public_html/qbw/bc/src/Bigcommerce/Api/Client.php:221
+Stack trace:
+#0 /home/waverlycabinets/public_html/qbw/bc/src/Bigcommerce/Api/Client.php(187): Bigcommerce\Api\Client::connection()
+#1 /home/waverlycabinets/public_html/qbw/bc/index.php(18): Bigcommerce\Api\Client::verifyPeer(false)
+#2 {main}
+  thrown in /home/waverlycabinets/public_html/qbw/bc/src/Bigcommerce/Api/Client.php on line 221
+[29-Mar-2022 19:38:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Bigcommerce\Api\Client' not found in /home/waverlycabinets/public_html/qbw/bc/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/waverlycabinets/public_html/qbw/bc/index.php on line 11
+[29-Mar-2022 19:43:19 UTC] PHP Notice:  Undefined variable: request in /home/waverlycabinets/public_html/qbw/bc/index.php on line 21
+[29-Mar-2022 19:43:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get() on null in /home/waverlycabinets/public_html/qbw/bc/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/waverlycabinets/public_html/qbw/bc/index.php on line 21
+[29-Mar-2022 19:56:00 UTC] PHP Notice:  Undefined variable: request in /home/waverlycabinets/public_html/qbw/bc/index.php on line 21
+[29-Mar-2022 19:56:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get() on null in /home/waverlycabinets/public_html/qbw/bc/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/waverlycabinets/public_html/qbw/bc/index.php on line 21
+[29-Mar-2022 19:56:02 UTC] PHP Notice:  Undefined variable: request in /home/waverlycabinets/public_html/qbw/bc/index.php on line 21
+[29-Mar-2022 19:56:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get() on null in /home/waverlycabinets/public_html/qbw/bc/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/waverlycabinets/public_html/qbw/bc/index.php on line 21
+[29-Mar-2022 19:56:46 UTC] PHP Warning:  require_once(Bigcommerce/Api/Connection.php): failed to open stream: No such file or directory in /home/waverlycabinets/public_html/qbw/bc/index.php on line 8
+[29-Mar-2022 19:56:46 UTC] PHP Fatal error:  require_once(): Failed opening required 'Bigcommerce/Api/Connection.php' (include_path='.:/opt/alt/php73/usr/share/pear:/home/waverlycabinets/public_html/qbw') in /home/waverlycabinets/public_html/qbw/bc/index.php on line 8
+[29-Mar-2022 19:57:13 UTC] PHP Notice:  Undefined variable: request in /home/waverlycabinets/public_html/qbw/bc/index.php on line 21
+[29-Mar-2022 19:57:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get() on null in /home/waverlycabinets/public_html/qbw/bc/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/waverlycabinets/public_html/qbw/bc/index.php on line 21
+[29-Mar-2022 19:57:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Bigcommerce\Api\Client' not found in /home/waverlycabinets/public_html/qbw/bc/index.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/waverlycabinets/public_html/qbw/bc/index.php on line 36
+[29-Mar-2022 20:08:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Bigcommercea\Api\Client' not found in /home/waverlycabinets/public_html/qbw/bc/index.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/waverlycabinets/public_html/qbw/bc/index.php on line 36
+[29-Mar-2022 20:08:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Bigcommercea\Api\Client' not found in /home/waverlycabinets/public_html/qbw/bc/index.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/waverlycabinets/public_html/qbw/bc/index.php on line 36
+[29-Mar-2022 20:08:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Bigcommercea\Api\Client' not found in /home/waverlycabinets/public_html/qbw/bc/index.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/waverlycabinets/public_html/qbw/bc/index.php on line 36
+[29-Mar-2022 20:08:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Bigcommercea\Api\Client' not found in /home/waverlycabinets/public_html/qbw/bc/index.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/waverlycabinets/public_html/qbw/bc/index.php on line 36
+[29-Mar-2022 20:09:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Bigcommerce\sApi\Client' not found in /home/waverlycabinets/public_html/qbw/bc/index.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/waverlycabinets/public_html/qbw/bc/index.php on line 36
+[29-Mar-2022 20:09:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Bigcommerce\sApi\Client' not found in /home/waverlycabinets/public_html/qbw/bc/index.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/waverlycabinets/public_html/qbw/bc/index.php on line 36
+[29-Mar-2022 20:41:46 UTC] PHP Notice:  Undefined variable: request in /home/waverlycabinets/public_html/qbw/bc/index.php on line 21
+[29-Mar-2022 20:41:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get() on null in /home/waverlycabinets/public_html/qbw/bc/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/waverlycabinets/public_html/qbw/bc/index.php on line 21
+[29-Mar-2022 20:47:38 UTC] PHP Notice:  Undefined variable: request in /home/waverlycabinets/public_html/qbw/bc/index.php on line 21
+[29-Mar-2022 20:47:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get() on null in /home/waverlycabinets/public_html/qbw/bc/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/waverlycabinets/public_html/qbw/bc/index.php on line 21
+[29-Mar-2022 20:47:40 UTC] PHP Notice:  Undefined variable: request in /home/waverlycabinets/public_html/qbw/bc/index.php on line 21
+[29-Mar-2022 20:47:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get() on null in /home/waverlycabinets/public_html/qbw/bc/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/waverlycabinets/public_html/qbw/bc/index.php on line 21
+[29-Mar-2022 20:48:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Bigcommerce\Api\Client' not found in /home/waverlycabinets/public_html/qbw/bc/index.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/waverlycabinets/public_html/qbw/bc/index.php on line 42
